@@ -2,10 +2,11 @@
 
 ☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
 
-Gruppe:
--Sacher (Gruppenleiter)
+## Gruppe: 
 
--Marku
+-Sacher (Gruppenleiter) 
+
+-Marku 
 
 -Burlet
 
