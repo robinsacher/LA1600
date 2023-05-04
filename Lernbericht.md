@@ -29,3 +29,49 @@
 👎 und etwas, was nicht gut lief.
 
 **VBV**: ✍️ Formulieren Sie davon ausgehend einen *handelbaren* Verbesserungsvorschlag.
+
+      │ Anmeldung
+      ▼
+┌─────────┐
+│Versions- │
+│prüfung  │
+└─────────┘
+      │
+      │ Windows-Version kleiner 11?
+      ▼
+┌─────────┐
+│    Abbruch   │
+└─────────┘
+      │
+      │
+      │ Windows-Version 11 oder höher
+      ▼
+┌───────────────┐
+│  Lesen der Datei    │
+└───────────────┘
+      │
+      │ Datei nicht vorhanden?
+      ▼
+┌─────────┐
+│  Fehlermeldung │
+└─────────┘
+      │
+      │
+      │ Datei vorhanden
+      ▼
+┌───────────────┐
+│  Erstellen des   │
+│    Zeitstempels   │
+├───────────────┤
+│  Hinzufügen des   │
+│    Zeitstempels   │
+│    zu logfile.log  │
+├───────────────┤
+│ Konvertieren der  │
+│   Datei in UTF-8  │
+├───────────────┤
+│  Speichern der   │
+│  Datei als        │
+│  logfileutf8.log  │
+└───────────────┘
+
