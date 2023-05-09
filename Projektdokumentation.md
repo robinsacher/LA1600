@@ -29,7 +29,6 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 7    |   muss             |  F   |  Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.          |
 | 8    |   muss             |  F   |   Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen.         |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
