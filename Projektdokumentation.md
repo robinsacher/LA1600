@@ -52,7 +52,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 ### 1.4 Diagramme
 
-✍️ Hier können Sie PAPs, Use Case- und Gantt-Diagramme oder Ähnliches einfügen.
+
 
 ## 2 Planen
 
