@@ -28,6 +28,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 6    |   muss             |  F   |  Als ein User möchte ich auf dieser Website herumsurfen können, ohne mir Viren einzufangen.          |
 | 7    |   muss             |  F   |  Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.          |
 | 8    |   muss             |  F   |  Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen.         |
+| 9    |   kann             |  F   | Als ein USer möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird. | 
 
 
 ### 1.3 Testfälle
