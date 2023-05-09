@@ -28,7 +28,8 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 6    |   muss             |  F   |  Als ein User möchte ich auf dieser Website herumsurfen können, ohne mir Viren einzufangen.          |
 | 7    |   muss             |  F   |  Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.          |
 | 8    |   muss             |  F   |  Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen.         |
-| 9    |   kann             |  F   | Als ein USer möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird. | 
+| 9    |   kann             |  F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird. | 
+| 10   |   kann             |  F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann. |
 
 
 ### 1.3 Testfälle
@@ -36,17 +37,15 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |  Im Internet auf einem Browser sein   |  Auf Website Link klicken       |  Auf die Website gelangen          |
-| 2.1  |  Auf der Website surfen | - | coole animationen erscheinen |
-| 3.1  |  Auf der Website surfen       |  Auf dropdown Liste klicken        |      Die Restaurants zur Auswahl bekomme             |
-| 4.1  |  Auf der dropdown Liste sein | Auf ein Restaurant nach wahl drücken |  Zur Speisekarte gelangen |
-| 5.1  |  Auf der dropdown Liste sein | - | Vorgeschlagene Restaurants je nach vorheriger Suche | 
+| 2.1  |  Auf der Website surfen | - | coole Animationen erscheinen |
+| 3.1  |  Auf der Website surfen       |  Auf Dropdown Liste klicken        |      Die Restaurants zur Auswahl bekomme             |
+| 4.1  |  Auf der Dropdown Liste sein | Auf ein Restaurant nach Wahl drücken |  Zur Speisekarte gelangen |
+| 5.1  |  Auf der Dropdown Liste sein | - | Vorgeschlagene Restaurants je nach vorheriger Suche | 
 | 6.1  |  Auf der Website surfen      | - | (Virenfrei surfen können) |
 | 7.1  |  Auf der Website surfen      | - | - | 
-| 8.1  |  Auf der Website surfen     | Auf Weiterleiten knopf klicken | Website an Familie/Freunde schicken können |
-
-
-### 1.4 Diagramme
-### Use-Case Diagramm
+| 8.1  |  Auf der Website surfen     | Auf Weiterleiten Knopf klicken | Website an Familie/Freunde schicken können |
+| 9.1  |  Auf der Dropdown Liste sein | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt |
+| 10.1 |  Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken| Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
 
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/110891559/237032554-0486682d-4427-49fd-a084-ca5f602a262d.png">
 
