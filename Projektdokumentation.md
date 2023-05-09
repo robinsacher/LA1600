@@ -52,6 +52,8 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 ### 1.4 Diagramme
 
+<img width="446" alt="image" src="https://user-images.githubusercontent.com/110891559/237032554-0486682d-4427-49fd-a084-ca5f602a262d.png">
+
 
 ![image](https://user-images.githubusercontent.com/110891559/237027485-06f7114f-e508-41df-b118-c2cda66a4862.png)
 ![image](https://user-images.githubusercontent.com/110891559/237027591-14dedb86-570b-4b68-8e5b-042881bea6df.png)
