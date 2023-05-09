@@ -21,24 +21,28 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |   muss             |  F   |  Als ein User möchte ich, dass ich auf ein Link klicken kann, um auf die Website zu gelangen.  |
-| 2    |   muss             |  F   |  Als ein User möchte ich, dass ich auf der Website mit coolen Funktionen willkommen werde.    |
+| 2    |   muss             |  F   |  Als ein User möchte ich, dass ich auf der Website mit coolen Animationen willkommen werde.    |
 | 3    |   muss             |  F   |  Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.          |
 | 4    |   muss             |  F   |  Als ein User möchte ich die Speisekarten dieser Restaurants aufmachen können.          |
 | 5    |   muss             |  F   |  Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.         |
 | 6    |   muss             |  F   |  Als ein User möchte ich auf dieser Website herumsurfen können, ohne mir Viren einzufangen.          |
 | 7    |   muss             |  F   |  Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.          |
-| 8    |   muss             |  F   |   Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen.         |
+| 8    |   muss             |  F   |  Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen.         |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Im Internet auf einem Browser sein   |  Auf Website Link klicken       |  Auf die Website gelangen          |
+| 2.1  |  Auf der Website surfen | - | coole animationen erscheinen |
+| 3.1  |  Auf der Website surfen       |  Auf dropdown Liste klicken        |      Die Restaurants zur Auswahl bekomme             |
+| 4.1  |  Auf der dropdown Liste sein | Auf ein Restaurant nach wahl drücken |  Zur Speisekarte gelangen |
+| 5.1  |  Auf der dropdown Liste sein | - | Vorgeschlagene Restaurants je nach vorheriger Suche | 
+| 6.1  |  Auf der Website surfen      | - | (Virenfrei surfen können) |
+| 7.1  |  Auf der Website surfen      | - | - | 
+| 8.1  |  Auf der Website surfen     | Auf Weiterleiten knopf klicken | Website an Familie/Freunde schicken können |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 ### Use-Case Diagramm
