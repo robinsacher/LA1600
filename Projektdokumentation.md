@@ -35,10 +35,15 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  |  Im Internet auf einem Browser sein   |  Auf Website Link klicken       |  Auf die Website gelangen          |
+| 2.1  |  Auf der Website sein | - | coole animationen erscheinen |
+| 3.1  |  Auf der Website sein       |  Auf dropdown Liste klicken        |      Die Restaurants zur Auswahl bekomme             |
+| 4.1  |  Auf der dropdown Liste sein | Auf ein Restaurant nach wahl drücken |  Zur Speisekarte gelangen |
+| 5.1  |  Auf der dropdown Liste sein | - | Vorgeschlagene Restaurants je nach vorheriger Suche | 
+| 6.1  |  Auf der Website surfen      | - | (Virenfrei surfen können) |
+| 7.1  |  Auf der Website surfen      | - | - | 
+| 8.1  |  Auf der Website sein     | Auf Weiterleiten knopf klicken | Website an Familie/Freunde schicken können |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
 ### Use-Case Diagramm
