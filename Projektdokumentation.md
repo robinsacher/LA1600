@@ -90,7 +90,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | ---  | 23.05.2023      | Marku           | ---------------------------                    | -----               |
 | ---  | 23.05.2023      | Marku           | ---------------------------                    | -----               ||
 
-Total: 
+Total: 715 Min.
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
