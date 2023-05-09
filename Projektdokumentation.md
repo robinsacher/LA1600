@@ -6,22 +6,38 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+| 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für ein Restaurantvergleichswebsite entschieden. |
+| 09.05.2023 | o.o.2   |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei unserer Website genau am richtigen Ort.
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |   muss             |  F   |  Als ein User möchte ich, dass ich auf ein Link klicken kann, um auf die Website zu gelangen.  |
+| 2    |   muss             |  F   |  Als ein User möchte ich, dass ich auf der Website mit coolen Funktionen willkommen werde.    |
+| 3    |   muss             |  F   |  Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.          |
+| 4    |   muss             |  F   |  Als ein User möchte ich die Speisekarten dieser Restaurants aufmachen können.          |
+| 5    |   muss             |  F   |  Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.         |
+| 6    |   muss             |  F   |  Als ein User möchte ich auf dieser Website herumsurfen können, ohne mir Viren einzufangen.          |
+| 7    |   muss             |  F   |  Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.          |
+| 8    |   muss             |  F   |   Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen.         |
+| 9    |   muss             |  F   |  Als ein User möchte ich die möglichkeit haben meine Lieblings Restaurants        |
+| 10   |   muss             |  F   |            |
+| 11   |   muss             |  F   |            |
+| 12   |   muss             |  F   |            |
+| 13   |   muss             |  F   |            |
+| 14   |   muss             |  F   |            |
+| 15   |   muss             |  F   |            |
+| 16   |   muss             |  F   |            |
+| 17   |   muss             |  F   |            |
+| 18   |   muss             |  F   |            |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
