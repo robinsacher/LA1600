@@ -30,6 +30,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 8    |   muss             |  F   |  Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen.         |
 | 9    |   kann             |  F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird. | 
 | 10   |   kann             |  F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann. |
+| 11   |   kann             |  F   | Als ein User möchte ich Rezensionen für die Restaurants lesen können. |
 
 
 ### 1.3 Testfälle
