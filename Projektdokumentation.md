@@ -65,7 +65,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 3.A  | 23.05.2023      | Sacher          | verschiedene Restaurants einfügen              | 20 Min              |
+| 3.A  | 23.05.2023      | Sacher          | Verschiedene Restaurants einfügen              | 20 Min              |
 | 3.B  | 23.05.2023      | Sacher          | Speisekarten einfügen                          | 15 Min              |
 | 4.A  | 23.05.2023      | Sacher          | Speisekarten mit Menu verbinden                | 15 min              |
 | 9.A  | 23.05.2023      | Sacher          | Google Maps Karte mit HTML einfügen            | 2 Std.              |
@@ -82,13 +82,13 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 2.D  | 23.05.2023      | Burlet          | Animationen implementieren                     | 1 Std               |
 | ---  | 23.05.2023      | Burlet          | ---------------------------                    | -----               |
 | 10.A  | 23.05.2023      | Marku          | Button für Favoriten mit HTML erstellen        | 15 Min              |
-| 10.B  | 23.05.2023      | Marku          | mit CSS Button die Funktion zuweisen           | 15 Min              |
-| 2.E  | 23.05.2023      | Marku          | Button mit CSS designen                         | 30 Min              |
+| 10.B  | 23.05.2023      | Marku          | Mit CSS Button die Funktion zuweisen           | 15 Min              |
+| 2.E  | 23.05.2023      | Marku           | Button mit CSS designen                        | 30 Min              |
 | 11.A  | 23.05.2023      | Marku          | Feld für Rezensionen mit HTML erstellen        | 20 Min              |
-| 2.F  | 23.05.2023      | Marku          | Feld für Rezensionen mit CSS designen           | 20 Min              |
+| 2.F  | 23.05.2023      | Marku           | Feld für Rezensionen mit CSS designen          | 20 Min              |
 | 11.B  | 23.05.2023      | Marku          | Rezensionen einfügen                           | 10 Min              |
-| ---  | 23.05.2023      | Marku          | ---------------------------                     | -----               |
-| ---  | 23.05.2023      | Marku          | ---------------------------                     | -----               ||
+| ---  | 23.05.2023      | Marku           | ---------------------------                    | -----               |
+| ---  | 23.05.2023      | Marku           | ---------------------------                    | -----               ||
 
 Total: 
 
