@@ -21,7 +21,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |   muss             |  F   |  Als ein User möchte ich, dass ich auf ein Link klicken kann, um auf die Website zu gelangen.  |
-| 2    |   muss             |  F   |  Als ein User möchte ich, dass ich auf der Website mit coolen Funktionen willkommen werde.    |
+| 2    |   muss             |  F   |  Als ein User möchte ich, dass ich auf der Website mit coolen Animationen willkommen werde.    |
 | 3    |   muss             |  F   |  Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.          |
 | 4    |   muss             |  F   |  Als ein User möchte ich die Speisekarten dieser Restaurants aufmachen können.          |
 | 5    |   muss             |  F   |  Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.         |
