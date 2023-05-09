@@ -1,1 +1,298 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <h1 style="text-align: center;"><strong>Restaurantvergleich</strong></h1>
+    <p>&nbsp;</p>
 
+    <link href="C:\Users\robin\OneDrive - Kantonsschule Baden\Programmieren\Website_Playground\meine Website\desing\desings.css" rel="stylesheet" />
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function(event) { 
+        const dropdown = document.querySelector('select');
+        const content = document.querySelectorAll('div[id]');
+        
+        dropdown.addEventListener('change', (event) => {
+          content.forEach((element) => {
+            if (element.id === event.target.value) {
+              element.style.display = 'block';
+              picture1.style["dot nation"]="hidden";
+            } else {
+              element.style.display = 'none';
+            }
+          });
+        });
+      });
+    </script>
+  
+  </head>
+
+  <body>
+
+<div class="dropdown">
+  <select onchange="showText(this.value)">
+    <option value="" disabled selected>⬇️👨‍🍳  Bitte wählen sie ein Restaurant aus  👨‍🍳⬇️</option>
+    <option value="picture1">❌  Kein Restaurant gewählt</option>
+    <option value="gasthaus-zur-blume">💐  Gasthaus zur Blume</option>
+    <option value="restaurant-zum-turm">🌃  Restaurant zum Turm</option>
+    <option value="restaurant-adler">🦅  Restaurant Adler</option>
+    <option value="cafe-am-marktplatz">🧋  Cafe am Marktplatz</option>
+    <option value="restaurant-am-bach">🛶   Restaurant am Bach</option>
+    <option value="restaurant-zur-linde">🌳  Restaurant zur Linde</option>
+    <option value="restaurant-sonne">🌞  Restaurant Sonne</option>
+  </select>
+</div>
+
+<style> body { border: solid 5px;} </style>
+
+<p>&nbsp;</p>
+
+<div 
+id="picture1"
+style="text-align:center;"><img src="https://i.ibb.co/DzxDbsC/2103.jpg?w=2048&amp;cmd=resize_then_crop&amp;height=1365&amp;quality=70" width="1105" height="870" 
+/></div>
+
+<div id="gasthaus-zur-blume" style="display:none">
+  <h2 style="text-align: center;">Gasthaus zur Blume</h2>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Vorspeise</h3>
+  <p style="text-align: center;">Salat 10.-</p>
+  <p style="text-align: center;">gemischter Salat 12.-</p>
+  <p style="text-align: center;">Caeser Salat 15.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Hauptgang</h3>
+  <p style="text-align: center;">Pizza 1 20.-</p>
+  <p style="text-align: center;">Pizza 2 21.-</p>
+  <p style="text-align: center;">Pizza 3 22.-</p>
+  <p style="text-align: center;">Pommes (Klein) 5.-</p>
+  <p style="text-align: center;">Pommes (Gross) 7.-</p>
+  <p style="text-align: center;">Schnitzel und Pommes 15.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Dessert</h3>
+  <p style="text-align: center;">Vanilleglace (1 Kugel) 5.-</p>
+  <p style="text-align: center;">Erdbeerglace (1 Kugel) 5.-</p>
+  <p style="text-align: center;">ChocolateGlace&nbsp;(1 Kugel) 5.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Getr&auml;nke</h3>
+  <p style="text-align: center;">Cola 0,3L 4.-</p>
+  <p style="text-align: center;">Cola 0,5L 5.-</p>
+  <p style="text-align: center;">Sprite 0,3L 4.-</p>
+  <p style="text-align: center;">Sprite 0,5L 5.-</p>
+  <p style="text-align: center;">Wasser 0,3L 1.-</p>
+  <p style="text-align: center;">Wasser 0,5L 3.-</p>
+  <p style="text-align: center;">Wasser 1,0L 5.-</p>
+  <p>&nbsp;</p>
+  <p style="text-align: center;">Bier 0,3L 5.-</p>
+  <p style="text-align: center;">Wein 0,5L 10.-</p>
+<p style="text-align: center;">Wein 1,0L 20.-</p>
+<h3 style="text-align: center;">&nbsp;</h3>
+</div>
+
+<div id="restaurant-zum-turm" style="display:none;">
+  <h2 style="text-align: center;">Restaurant zum Turm</h2>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Vorspeise</h3>
+  <p style="text-align: center;">Tomatensuppe 8.-</p>
+  <p style="text-align: center;">Kartoffelsuppe 9.-</p>
+  <p style="text-align: center;">Salat 10.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Hauptgang</h3>
+  <p style="text-align: center;">Pasta mit Tomatensauce 15.-</p>
+  <p style="text-align: center;">Pasta mit Pesto 16.-</p>
+  <p style="text-align: center;">Pasta Carbonara 17.-</p>
+  <p style="text-align: center;">Steak mit Pommes 25.-</p>
+  <p style="text-align: center;">Burger mit Pommes 20.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Dessert</h3>
+  <p style="text-align: center;">Tiramisu 8.-</p>
+  <p style="text-align: center;">Panna Cotta 7.-</p>
+  <p style="text-align: center;">Schokoladenkuchen 9.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Getr&auml;nke</h3>
+  <p style="text-align: center;">Cola 0,3L 4.-</p>
+  <p style="text-align: center;">Cola 0,5L 5.-</p>
+  <p style="text-align: center;">Sprite 0,3L 4.-</p>
+  <p style="text-align: center;">Sprite 0,5L 5.-</p>
+  <p style="text-align: center;">Wasser 0,3L 1.-</p>
+  <p style="text-align: center;">Wasser 0,5L 3.-</p>
+  <p style="text-align: center;">Wasser 1,0L 5.-</p>
+  <p>&nbsp;</p>
+  <p style="text-align: center;">Bier 0,3L 5.-</p>
+  <p style="text-align: center;">Bier 0,5L 7.-</p>
+</div>
+
+<div id="restaurant-adler" style="display:none;">
+  <h2 style="text-align: center;">Restaurant Adler</h2>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Vorspeise</h3>
+  <p style="text-align: center;">Tomatensuppe 8.-</p>
+  <p style="text-align: center;">Kartoffelsuppe 9.-</p>
+  <p style="text-align: center;">Salat 10.-</p>
+  <p style="text-align: center;">Caprese-Salat 11.-</p>
+  <p style="text-align: center;">Bruschetta 12.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Hauptgang</h3>
+  <p style="text-align: center;">Pasta mit Tomatensauce 15.-</p>
+  <p style="text-align: center;">Pasta mit Pesto 16.-</p>
+  <p style="text-align: center;">Pasta Carbonara 17.-</p>
+  <p style="text-align: center;">Steak mit Pommes 25.-</p>
+  <p style="text-align: center;">Burger mit Pommes 20.-</p>
+  <p style="text-align: center;">Gebratener Lachs 22.-</p>
+  <p style="text-align: center;">Gemüsequiche 18.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Dessert</h3>
+  <p style="text-align: center;">Tiramisu 8.-</p>
+  <p style="text-align: center;">Panna Cotta 7.-</p>
+  <p style="text-align: center;">Schokoladenkuchen 9.-</p>
+  <p style="text-align: center;">Erdbeerkuchen 8.-</p>
+  <p style="text-align: center;">Apfelstrudel 10.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Getr&auml;nke</h3>
+  <p style="text-align: center;">Cola 0,3L 4.-</p>
+  <p style="text-align: center;">Cola 0,5L 5.-</p>
+  <p style="text-align: center;">Sprite 0,3L 4.-</p>
+  <p style="text-align: center;">Sprite 0,5L 5.-</p>
+  <p style="text-align: center;">Wasser 0,3L 1.-</p>
+  <p style="text-align: center;">Wasser 0,5L 3.-</p>
+  <p style="text-align: center;">Wasser 1,0L 5.-</p>
+  <p>&nbsp;</p>
+  <p style="text-align: center;">Bier 0,3L 5.-</p>
+  <p style="text-align: center;">Bier 0,5L 7.-</p>
+  <p style="text-align: center;">Rotwein 0,5L 15.-</p>
+  <p style="text-align: center;">Rotwein (Flasche) 25.-</p>
+  <p style="text-align: center;">Weißwein 0,5L 14.-</p>
+  <p style="text-align: center;">Weißwein (Flasche) 24.-</p>
+</div>
+
+<div id="cafe-am-marktplatz" style="display:none;">
+  <h2 style="text-align: center;">Cafe am Marktplatz</h2>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Vorspeise</h3>
+  <p style="text-align: center;">Tomatensuppe 8.-</p>
+  <p style="text-align: center;">Kartoffelsuppe 9.-</p>
+  <p style="text-align: center;">Salat 10.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Hauptgang</h3>
+  <p style="text-align: center;">Pasta mit Tomatensauce 15.-</p>
+  <p style="text-align: center;">Pasta mit Pesto 16.-</p>
+  <p style="text-align: center;">Pasta Carbonara 17.-</p>
+  <p style="text-align: center;">Steak mit Pommes 25.-</p>
+  <p style="text-align: center;">Burger mit Pommes 20.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Dessert</h3>
+  <p style="text-align: center;">Tiramisu 8.-</p>
+  <p style="text-align: center;">Panna Cotta 7.-</p>
+  <p style="text-align: center;">Schokoladenkuchen 9.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Getr&auml;nke</h3>
+  <p style="text-align: center;">Cola 0,3L 4.-</p>
+  <p style="text-align: center;">Cola 0,5L 5.-</p>
+  <p style="text-align: center;">Sprite 0,3L 4.-</p>
+  <p style="text-align: center;">Sprite 0,5L 5.-</p>
+  <p style="text-align: center;">Wasser 0,3L 1.-</p>
+  <p style="text-align: center;">Wasser 0,5L 3.-</p>
+  <p style="text-align: center;">Wasser 1,0L 5.-</p>
+  <p>&nbsp;</p>
+  <p style="text-align: center;">Bier 0,3L 5.-</p>
+  <p style="text-align: center;">Bier 0,5L 7.-</p>
+</div>
+
+<div id="restaurant-am-bach" style="display:none;">
+  <h2 style="text-align: center;">Restaurant am Bach</h2>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Vorspeise</h3>
+  <p style="text-align: center;">Tomatensuppe 8.-</p>
+  <p style="text-align: center;">Kartoffelsuppe 9.-</p>
+  <p style="text-align: center;">Salat 10.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Hauptgang</h3>
+  <p style="text-align: center;">Pasta mit Tomatensauce 15.-</p>
+  <p style="text-align: center;">Pasta mit Pesto 16.-</p>
+  <p style="text-align: center;">Pasta Carbonara 17.-</p>
+  <p style="text-align: center;">Steak mit Pommes 25.-</p>
+  <p style="text-align: center;">Burger mit Pommes 20.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Dessert</h3>
+  <p style="text-align: center;">Tiramisu 8.-</p>
+  <p style="text-align: center;">Panna Cotta 7.-</p>
+  <p style="text-align: center;">Schokoladenkuchen 9.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Getr&auml;nke</h3>
+  <p style="text-align: center;">Cola 0,3L 4.-</p>
+  <p style="text-align: center;">Cola 0,5L 5.-</p>
+  <p style="text-align: center;">Sprite 0,3L 4.-</p>
+  <p style="text-align: center;">Sprite 0,5L 5.-</p>
+  <p style="text-align: center;">Wasser 0,3L 1.-</p>
+  <p style="text-align: center;">Wasser 0,5L 3.-</p>
+  <p style="text-align: center;">Wasser 1,0L 5.-</p>
+  <p>&nbsp;</p>
+  <p style="text-align: center;">Bier 0,3L 5.-</p>
+  <p style="text-align: center;">Bier 0,5L 7.-</p>
+</div>
+
+<div id="restaurant-zur-linde" style="display:none;">
+  <h2 style="text-align: center;">Restaurant zur Linde</h2>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Vorspeise</h3>
+  <p style="text-align: center;">Tomatensuppe 8.-</p>
+  <p style="text-align: center;">Kartoffelsuppe 9.-</p>
+  <p style="text-align: center;">Salat 10.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Hauptgang</h3>
+  <p style="text-align: center;">Pasta mit Tomatensauce 15.-</p>
+  <p style="text-align: center;">Pasta mit Pesto 16.-</p>
+  <p style="text-align: center;">Pasta Carbonara 17.-</p>
+  <p style="text-align: center;">Steak mit Pommes 25.-</p>
+  <p style="text-align: center;">Burger mit Pommes 20.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Dessert</h3>
+  <p style="text-align: center;">Tiramisu 8.-</p>
+  <p style="text-align: center;">Panna Cotta 7.-</p>
+  <p style="text-align: center;">Schokoladenkuchen 9.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Getr&auml;nke</h3>
+  <p style="text-align: center;">Cola 0,3L 4.-</p>
+  <p style="text-align: center;">Cola 0,5L 5.-</p>
+  <p style="text-align: center;">Sprite 0,3L 4.-</p>
+  <p style="text-align: center;">Sprite 0,5L 5.-</p>
+  <p style="text-align: center;">Wasser 0,3L 1.-</p>
+  <p style="text-align: center;">Wasser 0,5L 3.-</p>
+  <p style="text-align: center;">Wasser 1,0L 5.-</p>
+  <p>&nbsp;</p>
+  <p style="text-align: center;">Bier 0,3L 5.-</p>
+  <p style="text-align: center;">Bier 0,5L 7.-</p>
+</div>
+
+<div id="restaurant-sonne" style="display:none;">
+  <h2 style="text-align: center;">Restaurant Sonne</h2>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Vorspeise</h3>
+  <p style="text-align: center;">Tomatensuppe 8.-</p>
+  <p style="text-align: center;">Kartoffelsuppe 9.-</p>
+  <p style="text-align: center;">Salat 10.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Hauptgang</h3>
+  <p style="text-align: center;">Pasta mit Tomatensauce 15.-</p>
+  <p style="text-align: center;">Pasta mit Pesto 16.-</p>
+  <p style="text-align: center;">Pasta Carbonara 17.-</p>
+  <p style="text-align: center;">Steak mit Pommes 25.-</p>
+  <p style="text-align: center;">Burger mit Pommes 20.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Dessert</h3>
+  <p style="text-align: center;">Tiramisu 8.-</p>
+  <p style="text-align: center;">Panna Cotta 7.-</p>
+  <p style="text-align: center;">Schokoladenkuchen 9.-</p>
+  <p>&nbsp;</p>
+  <h3 style="text-align: center;">Getr&auml;nke</h3>
+  <p style="text-align: center;">Cola 0,3L 4.-</p>
+  <p style="text-align: center;">Cola 0,5L 5.-</p>
+  <p style="text-align: center;">Sprite 0,3L 4.-</p>
+  <p style="text-align: center;">Sprite 0,5L 5.-</p>
+  <p style="text-align: center;">Wasser 0,3L 1.-</p>
+  <p style="text-align: center;">Wasser 0,5L 3.-</p>
+  <p style="text-align: center;">Wasser 1,0L 5.-</p>
+  <p>&nbsp;</p>
+  <p style="text-align: center;">Bier 0,3L 5.-</p>
+  <p style="text-align: center;">Bier 0,5L 7.-</p>
+  </div>
+  </body>
+</html>
