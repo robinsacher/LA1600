@@ -14,9 +14,7 @@
 
 ### 1.1 Ihr Projekt
 
-Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei unserer Website genau am richtigen Ort.
-
-
+Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei unserer Website genau am richtigen Ort. Wir erstellen eine Restaurantmenü-Website in HTML und CSS. Unsere Webseite bietet eine grosse Auswahl an exzellenten Restaurants in Baden. Sie können zwischen den verschiedenen Restaurants auswählen und sich deren Menükarten ansehen, um Ihnen bei der Entscheidung für das passende Restaurant zu helfen. Man kann auch seine bevorzugten Restaurants speichern, um für das nächste Mal zu wissen, wohin man gehen möchte.
 
 ### 1.2 User Stories
 
