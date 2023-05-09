@@ -7,7 +7,7 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für ein Restaurantvergleichswebsite entschieden. |
-| 09.05.2023 | o.o.2   |                                                              |
+| 09.05.2023 | 0.0.2   |                                                              |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
