@@ -1,0 +1,35 @@
+body {
+    background-color: #e8aea9;
+ }
+
+ body {
+   font-family: Verdana, sans-serif;
+ }
+
+ .dropdown {
+   display: flex;
+   justify-content: center;
+ }
+
+ .dropdown select { 
+ width: 460px; 
+ padding: 8px; 
+ font-size:20px; 
+ border: 4px solid rgb(242, 112, 112);
+ background-color: rgb(242, 112, 112); 
+ border-radius: 51px; 
+ appearance: none; 
+ -webkit-appearance: none; 
+ -moz-appearance: none; }
+
+ .dropdown select:focus {
+   outline: none;
+ }
+
+ .dropdown select option {
+   padding: 8px;
+ }
+
+ .dropdown select option:hover {
+   background-color: #ddd;
+ }
