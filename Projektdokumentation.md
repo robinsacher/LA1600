@@ -6,8 +6,8 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-| 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für ein Restaurantvergleichswebsite entschieden. |
-| 09.05.2023 | 0.0.2   |                                                              |
+| 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für einen Restaurantvergleichswebsite entschieden. |
+| 09.05.2023 | 0.0.2   | Wir haben heute die Projektdokumentation bis zur Nummer 4 ausgefüllt und haben angefangen unser Projekt zu realisieren.     |
 |        | 1.0.0   |                                                              |
 
 ## 1 Informieren
