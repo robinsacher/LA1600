@@ -51,10 +51,10 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
-#### Use-Case Diagramm
+Use-Case Diagramm
 <img width="446" alt="image" src="https://user-images.githubusercontent.com/110891559/237032554-0486682d-4427-49fd-a084-ca5f602a262d.png">
 
-#### Skizze Website
+Skizze Website
 ![image](https://user-images.githubusercontent.com/110891559/237027485-06f7114f-e508-41df-b118-c2cda66a4862.png)
 ![image](https://user-images.githubusercontent.com/110891559/237027591-14dedb86-570b-4b68-8e5b-042881bea6df.png)
 ![image](https://user-images.githubusercontent.com/110891559/237027627-60147010-3e38-4f4c-a5b7-2939519ccd2b.png)
