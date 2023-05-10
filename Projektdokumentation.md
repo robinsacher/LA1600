@@ -21,9 +21,9 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 1    |   muss             |  F   |  Als ein User möchte ich, dass ich auf ein Link klicken kann, um auf die Website zu gelangen.  |
-| 2    |   muss             |  F   |  Als ein User möchte ich, dass ich auf der Website mit coolen Animationen willkommen werde.    |
+| 2    |   muss             |  F   |  Als ein User möchte ich, dass ich auf der Website mit coolen Animationen begrüsst werde.    |
 | 3    |   muss             |  F   |  Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.          |
-| 4    |   muss             |  F   |  Als ein User möchte ich die Speisekarten dieser Restaurants aufmachen können.          |
+| 4    |   muss             |  F   |  Als ein User möchte ich die Speisekarten dieser Restaurants ansehen können.          |
 | 5    |   muss             |  F   |  Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.         |
 | 6    |   muss             |  F   |  Als ein User möchte ich auf dieser Website herumsurfen können, ohne mir Viren einzufangen.          |
 | 7    |   muss             |  F   |  Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.          |
@@ -65,32 +65,31 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 3.A  | 23.05.2023      | Sacher          | Verschiedene Restaurants einfügen              | 20 Min.              |
-| 3.B  | 23.05.2023      | Sacher          | Speisekarten einfügen                          | 15 Min.              |
-| 4.A  | 23.05.2023      | Sacher          | Speisekarten mit Menu verbinden                | 15 min.              |
-| 9.A  | 23.05.2023      | Sacher          | Google Maps Karte mit HTML einfügen            | 2 Std.              |
 | 1.B  | 23.05.2023      | Sacher          | Google Maps Karte mit CSS designen             | 40 Min.              |
 | 2.A  | 23.05.2023      | Sacher          | Startseite mit CSS designen                    | 40 Min.              |
-| 2.B  | 23.05.2023      | Sacher          | Seite mit Speisekarten designen                | 1 Std.              |
-| ---  | 23.05.2023      | Sacher          | ---------------------------                    | -----               |
+| 2.B  | 23.05.2023      | Sacher          | Seite mit Speisekarten designen                | 1 Std.               |
+| 2.C  | 23.05.2023      | Burlet          | Startmenu mit CSS designen                     | 20 Min.              |
+| 2.D  | 23.05.2023      | Burlet          | Light Mode implementieren                      | 1,5 Std.             |                       
+| 2.E  | 23.05.2023      | Marku           | Button mit CSS designen                        | 30 Min.              |
+| 2.F  | 23.05.2023      | Marku           | Feld für Rezensionen mit CSS designen          | 20 Min.              |
+| 2.G  | 23.05.2023      | Burlet          | Animationen implementieren                     | 1 Std.               |
+| 3.A  | 23.05.2023      | Sacher          | Verschiedene Restaurants einfügen              | 20 Min.              |
+| 3.B  | 23.05.2023      | Sacher          | Speisekarten einfügen                          | 15 Min.              |
 | 3.C  | 23.05.2023      | Burlet          | Startmenu mit HTML einfügen                    | 20 Min.              |
 | 3.D  | 23.05.2023      | Burlet          | Funktion des Startmenus implementieren         | 20 Min.              |
-| 2.C  | 23.05.2023      | Burlet          | Startmenu mit CSS designen                     | 20 Min.              |
-| 4.A  | 23.05.2023      | Burlet          | Speisekarten mit Menu verbinden                | 15 Min.              |
-| 3.D  | 23.05.2023      | Burlet          | Erstellen von Restaurantkategorien             | 15 Min.              |
-| 2.C  | 23.05.2023      | Burlet          | Light Mode implementieren                      | 1,5 Std.             |                       |
-| 2.D  | 23.05.2023      | Burlet          | Animationen implementieren                     | 1 Std.               |
-| ---  | 23.05.2023      | Burlet          | ---------------------------                    | -----               |
-| 10.A  | 23.05.2023      | Marku          | Button für Favoriten mit HTML erstellen        | 15 Min.              |
-| 10.B  | 23.05.2023      | Marku          | Mit CSS Button die Funktion zuweisen           | 15 Min.              |
-| 2.E  | 23.05.2023      | Marku           | Button mit CSS designen                        | 30 Min.              |
-| 11.A  | 23.05.2023      | Marku          | Feld für Rezensionen mit HTML erstellen        | 20 Min.              |
-| 2.F  | 23.05.2023      | Marku           | Feld für Rezensionen mit CSS designen          | 20 Min.              |
-| 11.B  | 23.05.2023      | Marku          | Rezensionen einfügen                           | 10 Min.              |
-| ---  | 23.05.2023      | Marku           | ---------------------------                    | -----               |
-| ---  | 23.05.2023      | Marku           | ---------------------------                    | -----               ||
+| 3.E  | 23.05.2023      | Burlet          | Erstellen von Restaurantkategorien             | 15 Min.              |
+| 4.A  | 23.05.2023      | Sacher          | Speisekarten mit Menu verbinden                | 25 min.              |
+| 9.A  | 23.05.2023      | Sacher          | Google Maps Karte mit HTML einfügen            | 2 Std.               |
+| 10.A | 23.05.2023      | Marku           | Button für Favoriten mit HTML erstellen        | 15 Min.              |
+| 10.B | 23.05.2023      | Marku           | Mit CSS dem Button für die Favoriten die Funktion zuweisen           | 15 Min.              |
+| 10.C | 23.05.2023      | Marku           | Button mit CSS designen                        | 20 Min.              |
+| 11.A | 23.05.2023      | Marku           | Feld für Rezensionen mit HTML erstellen        | 20 Min.              |
+| 11.B | 23.05.2023      | Marku           | Rezensionen einfügen                           | 10 Min.              |
+| ---  | 23.05.2023      | Marku           | ---------------------------                    | -----                |
+| ---  | 23.05.2023      | Sacher          | ---------------------------                    | -----                |
+| ---  | 23.05.2023      | Burlet          | ---------------------------                    | -----                |
 
-Total: 715 Min.
+Total: 675 Min.
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
