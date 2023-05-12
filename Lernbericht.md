@@ -1,5 +1,8 @@
 # Lern-Bericht
-✍️ ggf. Ihr Gruppenname und Ihre Gruppenmitglieder
+### Gruppe: Lychee
+- Sacher (Gruppenleiter) 
+- Marku 
+- Burlet
 
 ## Einleitung
 
