@@ -1,5 +1,5 @@
 # Projekt-Dokumentation
-### Gruppe:
+### Gruppe: Lychee
 - Sacher (Gruppenleiter) 
 - Marku 
 - Burlet
