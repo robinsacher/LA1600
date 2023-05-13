@@ -1,3 +1,19 @@
+body {
+  background-color: #416378;
+}
+
+.maps1 {
+  border-radius: 20px;
+}
+
+.maps2 {
+  border-radius: 20px;
+}
+
+.maps3 {
+  border-radius: 20px;
+}
+
 .container.main section {
   background-color: #fff;
 }
