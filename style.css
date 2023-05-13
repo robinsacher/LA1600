@@ -1,13 +1,56 @@
-body {
-  background-color: #222222;
-  font-family: Verdana, sans-serif;
-  color: #dddddd;
+.container.main section {
+  background-color: #fff;
 }
 
-h1 {
-  text-align: left;
+.container.main section label {
+  border-bottom: 1px solid #416378;
+  background-color: #174a69;
+  cursor: pointer;
+  display: block;
+  padding: 15px 20px;
+  margin: 0;
+  color: ghostwhite;
+  position: relative;
+  font-size: 22px;
+  &::after {
+    content: "\271B";
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #fff;
+    opacity: 0.5;
+    font-weight: 100;
+    font-size: 16px;
+  }
 }
 
-header {
-  flex: auto;
+.container.main section div {
+  color: #666;
+  max-height: 0;
+  visibility: hidden;
+  overflow: hidden;
+  padding: 0 20px;
+  transition: all 0.8s ease;
+  opacity: 0;
+  * {
+    opacity: 0;
+    transition: all 0.8s ease;
+  }
+}
+
+.container.main section input {
+  display: none;
+  &:checked + label + div {
+    max-height: 100vh;
+    visibility: visible;
+    opacity: 1;
+    padding: 20px;
+    * {
+      opacity: 1;
+    }
+  }
+  &:checked + lable::after {
+    content: "\268A";
+  }
 }
