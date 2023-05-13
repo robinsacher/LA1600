@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-## Gruppe: Lychee
+### Gruppe: Lychee
 
 - Sacher (Gruppenleiter)
 - Marku
