@@ -1,10 +1,10 @@
 # Lern-Bericht
 
-## Gruppe: Lychee
+### Gruppe: Lychee
 
-Sacher (Gruppenleiter)
-Marku
-Burlet
+- Sacher (Gruppenleiter)
+- Marku
+- Burlet
 
 ## Einleitung
 
