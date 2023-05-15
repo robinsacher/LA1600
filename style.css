@@ -3,28 +3,24 @@ body {
 }
 
 .container.main {
-  max-width: 800px; /* Ändere die Breite nach Bedarf */
-  margin: 0 auto; /* Zentriert den Container horizontal */
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 iframe {
-  max-width: 100%; /* Skaliert die Google Maps iframes entsprechend der Container-Breite */
-}
-
-.section3 {
-  width: 1600;
+  max-width: 100%;
 }
 
 .maps1 {
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .maps2 {
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .maps3 {
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .container.main section {
@@ -38,7 +34,7 @@ iframe {
   display: block;
   padding: 15px 20px;
   margin: 0;
-  color: ghostwhite;
+  color: rgb(255, 255, 255);
   position: relative;
   font-size: 22px;
 }
@@ -49,11 +45,11 @@ iframe {
   right: 20px;
   top: 50%;
   transform: translateY(-50%);
-  color: #fff;
+  color: rgb(255, 255, 255);
   opacity: 0.5;
   font-weight: 100;
   font-size: 16px;
-  transition: all 0.3s ease; /* Füge eine Übergangseigenschaft hinzu */
+  transition: all 0.3s ease;
 }
 
 .container.main section div {
