@@ -2,6 +2,19 @@ body {
   background-color: #416378;
 }
 
+.container.main {
+  max-width: 800px; /* Ändere die Breite nach Bedarf */
+  margin: 0 auto; /* Zentriert den Container horizontal */
+}
+
+iframe {
+  max-width: 100%; /* Skaliert die Google Maps iframes entsprechend der Container-Breite */
+}
+
+.section3 {
+  width: 1600;
+}
+
 .maps1 {
   border-radius: 20px;
 }
@@ -28,17 +41,19 @@ body {
   color: ghostwhite;
   position: relative;
   font-size: 22px;
-  &::after {
-    content: "\271B";
-    position: absolute;
-    right: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-    color: #fff;
-    opacity: 0.5;
-    font-weight: 100;
-    font-size: 16px;
-  }
+}
+
+.container.main section label::after {
+  content: "\271B";
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  opacity: 0.5;
+  font-weight: 100;
+  font-size: 16px;
+  transition: all 0.3s ease; /* Füge eine Übergangseigenschaft hinzu */
 }
 
 .container.main section div {
@@ -49,24 +64,28 @@ body {
   padding: 0 20px;
   transition: all 0.8s ease;
   opacity: 0;
-  * {
-    opacity: 0;
-    transition: all 0.8s ease;
-  }
+}
+
+.container.main section div * {
+  opacity: 0;
+  transition: all 0.8s ease;
 }
 
 .container.main section input {
   display: none;
-  &:checked + label + div {
-    max-height: 100vh;
-    visibility: visible;
-    opacity: 1;
-    padding: 20px;
-    * {
-      opacity: 1;
-    }
-  }
-  &:checked + lable::after {
-    content: "\268A";
-  }
+}
+
+.container.main section input:checked + label::after {
+  content: "\268A";
+}
+
+.container.main section input:checked + label + div {
+  max-height: 100vh;
+  visibility: visible;
+  opacity: 1;
+  padding: 20px;
+}
+
+.container.main section input:checked + label + div * {
+  opacity: 1;
 }
