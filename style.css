@@ -76,7 +76,7 @@ iframe {
 }
 
 .container.main section input:checked + label + div {
-  max-height: 10000vh;
+  max-height: 1000vh;
   visibility: visible;
   opacity: 1;
   padding: 20px;
