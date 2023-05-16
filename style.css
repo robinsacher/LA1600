@@ -1,5 +1,8 @@
+:root {
+  --color1: #416378;
+}
 body {
-  background-color: #416378;
+  background-color: var(--color1);
 }
 
 .container.main {
