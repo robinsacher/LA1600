@@ -1,84 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
 :root {
-  --bgcolor: #0d3e5f;
-  --bgcolorlist: #232323;
-  --font: #ddd;
+  --primary-color: #416378;
+  --background-color: #174a69;
+  --accent-color: #fff;
+  --special-color1: #666;
+  --title-font: 'Bebas Neue', sans-serif;
+  --text-font: 'Bebas Neue', sans-serif;
+  --extra-font: 'Bebas Neue', sans-serif;
 }
-h1{
-  font-size: 20px;
-}
+
 body {
-  background-color: var(--color1);
+  background-color: var(--primary-color);
+  font-family: var(--text-font);
+}
+
+.container.main {
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 iframe {
   max-width: 100%;
 }
 
-.maps1 {
-  border-radius: 10px;
-}
-
-.maps2 {
-  border-radius: 10px;
-}
-
+.maps1,
+.maps2,
 .maps3 {
   border-radius: 10px;
 }
 
-body {
-  background-color: var(--bgcolor);
-  font-family: Verdana, sans-serif;
-  color: var(--font);
+.container.main section {
+  background-color: var(--accent-color);
 }
 
-ul{
-  padding-left: 0px;
+.container.main section label {
+  border-bottom: 1px solid var(--primary-color);
+  background-color: var(--background-color);
+  cursor: pointer;
+  display: block;
+  padding: 15px 20px;
+  margin: 0;
+  color: #fff;
+  position: relative;
+  font-size: 22px;
+  font-family: var(--title-font);
 }
 
-#list {
-  list-style: none;
-  padding: 0;
+.container.main section label::after {
+  content: "\271B";
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  opacity: 0.5;
+  font-weight: 100;
+  font-size: 16px;
+  transition: all 0.3s ease;
 }
 
-li {
-  list-style: none;
-  border: var(--font);
-  border-radius: 10px;
-  margin: 10px;
-  display: flex;
-  justify-content: center;
-}
-
-ul li div {
-  border: 2px solid var(--font);
-  background-color: var(--bgcolorlist);
-  border-radius: 10px;
+.container.main section div {
+  color: var(--special-color1);
+  max-height: 0;
+  visibility: hidden;
   overflow: hidden;
-  flex-direction: row;
+  padding: 0 20px;
+  transition: all 0.8s ease;
+  opacity: 0;
+  font-family: var(--text-font);
 }
 
-ul li div div {
-  border: none;
+.container.main section div * {
+  opacity: 0;
+  transition: all 0.8s ease;
 }
 
-h3 {
-  font-size: small;
+.container.main section input {
+  display: none;
 }
 
-a{
-  color: var(--font);
-  text-decoration: none;
+.container.main section input:checked + label::after {
+  content: "\268A";
 }
 
-ul li div img {
-
-  max-width: 450px;
-  width: 450px;
-  max-height: 63px;
-  height: auto;
-  object-fit: cover;
+.container.main section input:checked + label + div {
+  max-height: 1000vh;
+  visibility: visible;
+  opacity: 1;
+  padding: 20px;
 }
-h3{
-  font-size: 12px;
+
+.container.main section input:checked + label + div * {
+  opacity: 1;
 }
