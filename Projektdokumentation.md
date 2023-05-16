@@ -10,7 +10,7 @@
 | ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für einen Restaurantvergleichswebsite entschieden.         |
 | 09.05.2023 | 0.0.2   | Wir haben heute die Projektdokumentation bis zur Nummer 4 ausgefüllt und haben angefangen unser Projekt zu realisieren. |
-|            | 1.0.0   |                                                                                                                         |
+| 16.05.2023 | 1.0.0   |                                                                                                                         |
 
 ## 1 Informieren
 
@@ -48,6 +48,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 8.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
 | 9.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
 | 10.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
+| 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              |Rezensionen tauchen auf.                                      |
 
 <https://user-images.githubusercontent.com/110891559/237032554-0486682d-4427-49fd-a084-ca5f602a262d.png>
 
@@ -62,19 +63,19 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 | AP-№ | Frist      | Zuständig | Beschreibung                                               | geplante Zeit |
 | ---- | ---------- | --------- | ---------------------------------------------------------- | ------------- |
-| 1.B  | 23.05.2023 | Sacher    | Google Maps Karte mit CSS designen                         | 40 Min.       |
-| 2.A  | 23.05.2023 | Sacher    | Startseite mit CSS designen                                | 40 Min.       |
-| 2.B  | 23.05.2023 | Sacher    | Seite mit Speisekarten designen                            | 1 Std.        |
-| 2.C  | 23.05.2023 | Burlet    | Startmenu mit CSS designen                                 | 20 Min.       |
-| 2.D  | 23.05.2023 | Burlet    | Light Mode implementieren                                  | 1,5 Std.      |
-| 2.E  | 23.05.2023 | Marku     | Button mit CSS designen                                    | 30 Min.       |
-| 2.F  | 23.05.2023 | Marku     | Feld für Rezensionen mit CSS designen                      | 20 Min.       |
-| 2.G  | 23.05.2023 | Burlet    | Animationen implementieren                                 | 1 Std.        |
-| 3.A  | 23.05.2023 | Sacher    | Verschiedene Restaurants einfügen                          | 20 Min.       |
-| 3.B  | 23.05.2023 | Sacher    | Speisekarten einfügen                                      | 15 Min.       |
-| 3.C  | 23.05.2023 | Burlet    | Startmenu mit HTML einfügen                                | 20 Min.       |
-| 3.D  | 23.05.2023 | Burlet    | Funktion des Startmenus implementieren                     | 20 Min.       |
-| 3.E  | 23.05.2023 | Burlet    | Erstellen von Restaurantkategorien                         | 15 Min.       |
+| 2.A  | 23.05.2023 | Sacher    | Google Maps Karte mit CSS designen                         | 40 Min.       |
+| 2.B  | 23.05.2023 | Sacher    | Startseite mit CSS designen                                | 40 Min.       |
+| 2.C  | 23.05.2023 | Sacher    | Seite mit Speisekarten designen                            | 1 Std.        |
+| 2.D  | 23.05.2023 | Burlet    | Startmenu mit CSS designen                                 | 20 Min.       |
+| 2.E  | 23.05.2023 | Burlet    | Light Mode implementieren                                  | 1,5 Std.      |
+| 2.F  | 23.05.2023 | Marku     | Button mit CSS designen                                    | 30 Min.       |
+| 2.G  | 23.05.2023 | Marku     | Feld für Rezensionen mit CSS designen                      | 20 Min.       |
+| 3.A  | 23.05.2023 | Burlet    | Animationen implementieren                                 | 1 Std.        |
+| 3.B  | 23.05.2023 | Sacher    | Verschiedene Restaurants einfügen                          | 20 Min.       |
+| 3.C  | 23.05.2023 | Sacher    | Speisekarten einfügen                                      | 15 Min.       |
+| 3.D  | 23.05.2023 | Burlet    | Startmenu mit HTML einfügen                                | 20 Min.       |
+| 3.E  | 23.05.2023 | Burlet    | Funktion des Startmenus implementieren                     | 20 Min.       |
+| 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurantkategorien                         | 15 Min.       |
 | 4.A  | 23.05.2023 | Sacher    | Speisekarten mit Menu verbinden                            | 25 min.       |
 | 9.A  | 23.05.2023 | Sacher    | Google Maps Karte mit HTML einfügen                        | 2 Std.        |
 | 10.A | 23.05.2023 | Marku     | Button für Favoriten mit HTML erstellen                    | 15 Min.       |
@@ -88,20 +89,35 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 Total: 675 Min.
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz normale Klickfelder. Wir sind der Meinung, dass dies übersichtlicher ist und es uns auch später erleichtert, den Überblick zu behalten.
 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 2.A  | 16.05.2023 | Sacher    | 40 Min.       |
+| 2.B  | 16.05.2023 | Sacher    | 40 Min.       |
+| 2.C  | 16.05.2023 | Sacher    | 1 Std.        |
+| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |
+| 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      |
+| 2.F  | 16.05.2023 | Marku     | 30 Min.       |
+| 2.G  | 16.05.2023 | Marku     | 20 Min.       |
+| 3.A  | 16.05.2023 | Burlet    | 1 Std.        |
+| 3.B  | 16.05.2023 | Sacher    | 20 Min.       |
+| 3.C  | 16.05.2023 | Sacher    | 15 Min.       |
+| 3.D  | 16.05.2023 | Burlet    | 20 Min.       |
+| 3.E  | 23.05.2023 | Burlet    | 20 Min.       |
+| 3.F  | 23.05.2023 | Burlet    | 15 Min.       |
+| 4.A  | 23.05.2023 | Sacher    | 25 min.       |
+| 9.A  | 23.05.2023 | Sacher    | 2 Std.        |
+| 10.A | 23.05.2023 | Marku     | 15 Min.       |
+| 10.B | 23.05.2023 | Marku     | 15 Min.       |
+| 10.C | 23.05.2023 | Marku     | 20 Min.       |
+| 11.A | 23.05.2023 | Marku     | 20 Min.       |
+| 11.B | 23.05.2023 | Marku     | 10 Min.       |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
