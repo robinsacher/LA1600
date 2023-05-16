@@ -33,7 +33,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 9    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
 | 10   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
 | 11   | kann            | F   | Als ein User möchte ich Rezensionen für die Restaurants lesen können.                                                                                      |
-| 12   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestalltet ist.                                                                             |
+| 12   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestaltet ist.                                                                             |
 | 13   |kann             | F   | Als ein User möchte ich, dass die Website mit passenden Schriften geschrieben wurde.                                                                       |
 
 ### 1.3 Testfälle
@@ -54,14 +54,6 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
 | 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
 
-<https://user-images.githubusercontent.com/110891559/237032554-0486682d-4427-49fd-a084-ca5f602a262d.png>
-
-### Skizze Website
-
-![image](https://user-images.githubusercontent.com/110891559/237027485-06f7114f-e508-41df-b118-c2cda66a4862.png)
-![image](https://user-images.githubusercontent.com/110891559/237027591-14dedb86-570b-4b68-8e5b-042881bea6df.png)
-![image](https://user-images.githubusercontent.com/110891559/237027627-60147010-3e38-4f4c-a5b7-2939519ccd2b.png)
-![image](https://user-images.githubusercontent.com/110891559/237027662-02d633ea-6516-49ba-9e26-c215616b4279.png)
 
 ## 2 Planen
 
@@ -77,9 +69,9 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3.A  | 23.05.2023 | Burlet    | Animationen implementieren                                 | 1 Std.        |
 | 3.B  | 23.05.2023 | Sacher    | Verschiedene Restaurants einfügen                          | 20 Min.       |
 | 3.C  | 23.05.2023 | Sacher    | Speisekarten einfügen                                      | 15 Min.       |
-| 3.D  | 23.05.2023 | Burlet    | Startmenu mit HTML einfügen                                | 20 Min.       |
-| 3.E  | 23.05.2023 | Burlet    | Funktion des Startmenus implementieren                     | 20 Min.       |
-| 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurantkategorien                         | 15 Min.       |
+| 3.D  | 23.05.2023 | Burlet    | Startmenü mit HTML einfügen                                | 20 Min.       |
+| 3.E  | 23.05.2023 | Burlet    | Funktion des Startmenüs implementieren                     | 20 Min.       |
+| 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurant Kategorien                         | 15 Min.       |
 | 4.A  | 23.05.2023 | Sacher    | Speisekarten mit Menu verbinden                            | 25 min.       |
 | 9.A  | 23.05.2023 | Sacher    | Google Maps Karte mit HTML einfügen                        | 2 Std.        |
 | 10.A | 23.05.2023 | Marku     | Button für Favoriten mit HTML erstellen                    | 15 Min.       |
@@ -101,7 +93,7 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30min |
-| 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 30 min 1/2 |
+| 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 30 min (1/2 fertig) |
 | 2.C  | 16.05.2023 | Sacher    | 1 Std.        | -      |
 | 2.D  | 16.05.2023 | Burlet    | 20 Min.       |  -     |
 | 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      |   -    |
@@ -110,18 +102,18 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | 3.A  | 16.05.2023 | Burlet    | 1 Std.        |   -    |
 | 3.B  | 16.05.2023 | Sacher    | 20 Min.       |   -    |
 | 3.C  | 16.05.2023 | Sacher    | 15 Min.       |   -    |
-| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 25 Min. |
+| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 40 Min. |
 | 3.E  | 23.05.2023 | Burlet    | 20 Min.       |   -    |
 | 3.F  | 23.05.2023 | Burlet    | 15 Min.       |   -    |
-| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 30 Min. |
+| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min. |
 | 9.A  | 23.05.2023 | Sacher    | 2 Std.        |   -    |
 | 10.A | 23.05.2023 | Marku     | 15 Min.       |   -    |
 | 10.B | 23.05.2023 | Marku     | 15 Min.       |   -    |
 | 10.C | 23.05.2023 | Marku     | 20 Min.       |   -    |
 | 11.A | 23.05.2023 | Marku     | 20 Min.       |   -   |
 | 11.B | 23.05.2023 | Marku     | 10 Min.       |   -   |
-| 12.A | 23.05.2023 | Marku     | 25 Min.       |   40 Min.  |
-| 13.A | 23.05.2023 | Marku     | 20 Min.       |   15 Min.  |
+| 12.A | 23.05.2023 | Marku     | 25 Min.       |   35 Min.  |
+| 13.A | 23.05.2023 | Marku     | 20 Min.       |   10 Min.  |
 
 
 
