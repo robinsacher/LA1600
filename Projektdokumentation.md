@@ -10,7 +10,7 @@
 | ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für einen Restaurantvergleichswebsite entschieden.         |
 | 09.05.2023 | 0.0.2   | Wir haben heute die Projektdokumentation bis zur Nummer 4 ausgefüllt und haben angefangen unser Projekt zu realisieren. |
-|            | 1.0.0   |                                                                                                                         |
+| 16.05.2023 | 1.0.0   |                                                                                                                         |
 
 ## 1 Informieren
 
@@ -48,6 +48,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 8.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
 | 9.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
 | 10.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
+| 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              |Rezensionen tauchen auf.                                      |
 
 <https://user-images.githubusercontent.com/110891559/237032554-0486682d-4427-49fd-a084-ca5f602a262d.png>
 
