@@ -33,6 +33,8 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 9    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
 | 10   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
 | 11   | kann            | F   | Als ein User möchte ich Rezensionen für die Restaurants lesen können.                                                                                      |
+| 12   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestalltet ist.                                                                             |
+| 13   |kann             | F   | Als ein User möchte ich, dass die Website mit passenden Schriften geschrieben wurde.                                                                       |
 
 ### 1.3 Testfälle
 
@@ -48,7 +50,9 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 8.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
 | 9.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
 | 10.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
-| 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              |Rezensionen tauchen auf.                                      |
+| 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
+| 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
+| 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
 
 <https://user-images.githubusercontent.com/110891559/237032554-0486682d-4427-49fd-a084-ca5f602a262d.png>
 
@@ -97,26 +101,26 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 2.A  | 16.05.2023 | Sacher    | 40 Min.       |       |
-| 2.B  | 16.05.2023 | Sacher    | 40 Min.       |       |
-| 2.C  | 16.05.2023 | Sacher    | 1 Std.        |       |
-| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |       |
-| 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      |       |
-| 2.F  | 16.05.2023 | Marku     | 30 Min.       |       |
-| 2.G  | 16.05.2023 | Marku     | 20 Min.       |       |
-| 3.A  | 16.05.2023 | Burlet    | 1 Std.        |       |
-| 3.B  | 16.05.2023 | Sacher    | 20 Min.       |       |
-| 3.C  | 16.05.2023 | Sacher    | 15 Min.       |       |
-| 3.D  | 16.05.2023 | Burlet    | 20 Min.       |       |
-| 3.E  | 23.05.2023 | Burlet    | 20 Min.       |       |
-| 3.F  | 23.05.2023 | Burlet    | 15 Min.       |       |
-| 4.A  | 23.05.2023 | Sacher    | 25 min.       |       |
-| 9.A  | 23.05.2023 | Sacher    | 2 Std.        |       |
-| 10.A | 23.05.2023 | Marku     | 15 Min.       |       |
-| 10.B | 23.05.2023 | Marku     | 15 Min.       |       |
-| 10.C | 23.05.2023 | Marku     | 20 Min.       |       |
-| 11.A | 23.05.2023 | Marku     | 20 Min.       |       |
-| 11.B | 23.05.2023 | Marku     | 10 Min.       |       |
+| 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30min |
+| 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 30 min 1/2 |
+| 2.C  | 16.05.2023 | Sacher    | 1 Std.        | -      |
+| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |  -     |
+| 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      |   -    |
+| 2.F  | 16.05.2023 | Marku     | 30 Min.       |   -   |
+| 2.G  | 16.05.2023 | Marku     | 20 Min.       |   -    |
+| 3.A  | 16.05.2023 | Burlet    | 1 Std.        |   -    |
+| 3.B  | 16.05.2023 | Sacher    | 20 Min.       |   -    |
+| 3.C  | 16.05.2023 | Sacher    | 15 Min.       |   -    |
+| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 25 min |
+| 3.E  | 23.05.2023 | Burlet    | 20 Min.       |   -    |
+| 3.F  | 23.05.2023 | Burlet    | 15 Min.       |   -    |
+| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 30 min |
+| 9.A  | 23.05.2023 | Sacher    | 2 Std.        |   -    |
+| 10.A | 23.05.2023 | Marku     | 15 Min.       |   -    |
+| 10.B | 23.05.2023 | Marku     | 15 Min.       |   -    |
+| 10.C | 23.05.2023 | Marku     | 20 Min.       |   -    |
+| 11.A | 23.05.2023 | Marku     | 20 Min.       |   -   |
+| 11.B | 23.05.2023 | Marku     | 10 Min.       |   -   |
 
 
 
