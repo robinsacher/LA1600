@@ -87,10 +87,8 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 10.C | 23.05.2023 | Marku     | Button mit CSS designen                                    | 20 Min.       |
 | 11.A | 23.05.2023 | Marku     | Feld für Rezensionen mit HTML erstellen                    | 20 Min.       |
 | 11.B | 23.05.2023 | Marku     | Rezensionen einfügen                                       | 10 Min.       |
-| ---  | 23.05.2023 | Marku     | ---------------------------                                | -----         |
-| ---  | 23.05.2023 | Sacher    | ---------------------------                                | -----         |
-| ---  | 23.05.2023 | Burlet    | ---------------------------                                | -----         |
-
+| 12.A | 23.05.2023 | Marku     | Farben aussuchen und einsetzten.                           | 25 min       |
+| 13.A | 23.05.2023 | Marku     | Schriftarten aussuchen und einsetzten.                     | 20 min       |
 Total: 675 Min.
 
 ## 3 Entscheiden
