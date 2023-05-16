@@ -87,8 +87,9 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 10.C | 23.05.2023 | Marku     | Button mit CSS designen                                    | 20 Min.       |
 | 11.A | 23.05.2023 | Marku     | Feld für Rezensionen mit HTML erstellen                    | 20 Min.       |
 | 11.B | 23.05.2023 | Marku     | Rezensionen einfügen                                       | 10 Min.       |
-| 12.A | 23.05.2023 | Marku     | Farben aussuchen und einsetzten.                           | 25 min       |
-| 13.A | 23.05.2023 | Marku     | Schriftarten aussuchen und einsetzten.                     | 20 min       |
+| 12.A | 23.05.2023 | Marku     | Farben aussuchen und einsetzten.                           | 25 Min.       |
+| 13.A | 23.05.2023 | Marku     | Schriftarten aussuchen und einsetzten.                     | 20 Min.       |
+
 Total: 675 Min.
 
 ## 3 Entscheiden
@@ -109,16 +110,18 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | 3.A  | 16.05.2023 | Burlet    | 1 Std.        |   -    |
 | 3.B  | 16.05.2023 | Sacher    | 20 Min.       |   -    |
 | 3.C  | 16.05.2023 | Sacher    | 15 Min.       |   -    |
-| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 25 min |
+| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 25 Min. |
 | 3.E  | 23.05.2023 | Burlet    | 20 Min.       |   -    |
 | 3.F  | 23.05.2023 | Burlet    | 15 Min.       |   -    |
-| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 30 min |
+| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 30 Min. |
 | 9.A  | 23.05.2023 | Sacher    | 2 Std.        |   -    |
 | 10.A | 23.05.2023 | Marku     | 15 Min.       |   -    |
 | 10.B | 23.05.2023 | Marku     | 15 Min.       |   -    |
 | 10.C | 23.05.2023 | Marku     | 20 Min.       |   -    |
 | 11.A | 23.05.2023 | Marku     | 20 Min.       |   -   |
 | 11.B | 23.05.2023 | Marku     | 10 Min.       |   -   |
+| 12.A | 23.05.2023 | Marku     | 25 Min.       |   40 Min.  |
+| 13.A | 23.05.2023 | Marku     | 20 Min.       |   15 Min.  |
 
 
 
