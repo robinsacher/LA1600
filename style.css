@@ -1,13 +1,13 @@
 :root {
-  --color1: #416378;
+  --bgcolor: #0d3e5f;
+  --bgcolorlist: #232323;
+  --font: #ddd;
+}
+h1{
+  font-size: 20px;
 }
 body {
   background-color: var(--color1);
-}
-
-.container.main {
-  max-width: 800px;
-  margin: 0 auto;
 }
 
 iframe {
@@ -26,65 +26,60 @@ iframe {
   border-radius: 10px;
 }
 
-.container.main section {
-  background-color: #fff;
+body {
+  background-color: var(--bgcolor);
+  font-family: Verdana, sans-serif;
+  color: var(--font);
 }
 
-.container.main section label {
-  border-bottom: 1px solid #416378;
-  background-color: #174a69;
-  cursor: pointer;
-  display: block;
-  padding: 15px 20px;
-  margin: 0;
-  color: rgb(255, 255, 255);
-  position: relative;
-  font-size: 22px;
+ul{
+  padding-left: 0px;
 }
 
-.container.main section label::after {
-  content: "\271B";
-  position: absolute;
-  right: 20px;
-  top: 50%;
-  transform: translateY(-50%);
-  color: rgb(255, 255, 255);
-  opacity: 0.5;
-  font-weight: 100;
-  font-size: 16px;
-  transition: all 0.3s ease;
+#list {
+  list-style: none;
+  padding: 0;
 }
 
-.container.main section div {
-  color: #666;
-  max-height: 0;
-  visibility: hidden;
+li {
+  list-style: none;
+  border: var(--font);
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+ul li div {
+  border: 2px solid var(--font);
+  background-color: var(--bgcolorlist);
+  border-radius: 10px;
   overflow: hidden;
-  padding: 0 20px;
-  transition: all 0.8s ease;
-  opacity: 0;
+  flex-direction: row;
 }
 
-.container.main section div * {
-  opacity: 0;
-  transition: all 0.8s ease;
+ul li div div {
+  border: none;
 }
 
-.container.main section input {
-  display: none;
+h3 {
+  font-size: small;
 }
 
-.container.main section input:checked + label::after {
-  content: "\268A";
+a{
+  color: var(--font);
+  text-decoration: none;
 }
 
-.container.main section input:checked + label + div {
-  max-height: 1000vh;
-  visibility: visible;
-  opacity: 1;
-  padding: 20px;
+ul li div img {
+
+  max-width: 450px;
+  width: 450px;
+  max-height: 63px;
+  height: auto;
+  object-fit: cover;
+}
+h3{
+  font-size: 12px;
 }
 
-.container.main section input:checked + label + div * {
-  opacity: 1;
-}
