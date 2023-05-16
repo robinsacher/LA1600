@@ -100,8 +100,17 @@ Total: 675 Min.
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
+| 1.B  |       |           |               |                   |
 | 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
+| 1.B  |       |           |               |                   |
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
