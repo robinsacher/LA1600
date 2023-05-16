@@ -18,8 +18,8 @@ li {
   align-items: center;
   list-style: none;
   border: #fff;
-  background-color: #111;
   border-radius: 10px;
+  margin: 10px;
 }
 
 ul li div {
@@ -27,6 +27,16 @@ ul li div {
   background-color: #111;
   border-radius: 10px;
   overflow: hidden;
+  flex-direction: row;
+}
+
+ul li div div {
+  border: none;
+}
+
+h3 {
+  font-size: small;
+  align-self: ;
 }
 
 ul li div img {
