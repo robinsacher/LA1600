@@ -43,14 +43,12 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3.1  | Auf der Website surfen                      | Auf Dropdown Liste klicken           | Die Restaurants zur Auswahl bekomme                          |
 | 4.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Zur Speisekarte gelangen                                     |
 | 5.1  | Auf der Dropdown Liste sein                 | -                                    | Vorgeschlagene Restaurants je nach vorheriger Suche          |
-| 6.1  | Auf der Website surfen                      | -                                    | (Virenfrei surfen können)                                    |
-| 7.1  | Auf der Website surfen                      | -                                    | -                                                            |
-| 8.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
-| 9.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
-| 10.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
-| 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
-| 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
-| 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
+| 6.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
+| 7.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
+| 8.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
+| 9.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
+| 10.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
+| 11.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
 
 ### 1.4 Diagramme
 ![Titlepage](https://github.com/robinsacher/LA1600/assets/110891559/120158e7-37df-4e6e-963d-6aadc4df561f)
