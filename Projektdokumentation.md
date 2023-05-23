@@ -10,8 +10,8 @@
 | ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für einen Restaurantvergleichswebsite entschieden.         |
 | 09.05.2023 | 0.0.2   | Wir haben heute die Projektdokumentation bis zur Nummer 4 ausgefüllt und haben angefangen unser Projekt zu realisieren. |
-| 16.05.2023 | 1.0.0   |                                                                                                                         |
-
+| 16.05.2023 | 0.0.3   | Wir haben weiter programmiert an unserem Projekt.                                                                                                                        |
+| 23.05.2023 | 0.0.4   | Wir haben weiter programmiert an unserem Projekt.                                                                                                                        |
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
