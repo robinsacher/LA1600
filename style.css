@@ -105,14 +105,62 @@ h3{
   border-radius: 5px;
   background-color: var(--bgcolorlist);
 }
-.filters div label{
-  padding: 10px;
 
+.container.main section {
+  background-color: #fff;
 }
 
-ul li{
-}
-
-#doenerfilt:checked ~ .Doener{
+.container.main label {
+  border-bottom: 1px solid #416378;
+  background-color: #092331;
+  cursor: pointer;
   display: block;
+  padding: 15px 20px;
+  margin: 0;
+  color: #fff;
+  position: relative;
+  font-size: 22px;
+}
+
+.container.main label::after {
+  content: "\271B";
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  opacity: 0.5;
+  font-weight: 100;
+  font-size: 16px;
+}
+
+.container.main div {
+  color: #666;
+  max-height: 0;
+  visibility: hidden;
+  overflow: hidden;
+  padding: 0 20px;
+}
+
+.container.main div p {
+  opacity: 0;
+}
+
+.container.main input {
+  display: none;
+}
+
+.container.main input:checked + label + div {
+  max-height: 100vh;
+  visibility: visible;
+  opacity: 1;
+  padding: 20px;
+}
+
+.container.main input:checked + label + div p {
+  opacity: 1;
+}
+
+.container.main input:checked + label::after {
+  content: "\268A";
 }
