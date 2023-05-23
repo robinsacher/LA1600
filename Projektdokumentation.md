@@ -27,14 +27,12 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3    | muss            | F   | Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.                                                                               |
 | 4    | muss            | F   | Als ein User möchte ich die Speisekarten dieser Restaurants ansehen können.                                                                                |
 | 5    | muss            | F   | Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.      |
-| 6    | muss            | F   | Als ein User möchte ich auf dieser Website herumsurfen können, ohne mir Viren einzufangen.                                                                 |
-| 7    | muss            | F   | Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.                                                               |
-| 8    | muss            | F   | Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen. |
-| 9    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
-| 10   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
-| 11   | kann            | F   | Als ein User möchte ich Rezensionen für die Restaurants lesen können.                                                                                      |
-| 12   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestaltet ist.                                                                             |
-| 13   |kann             | F   | Als ein User möchte ich, dass die Website mit passenden Schriften geschrieben wurde.                                                                       |
+| 6    | muss            | F   | Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen. |
+| 7    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
+| 8   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
+| 9   | kann            | F   | Als ein User möchte ich Rezensionen für die Restaurants lesen können.                                                                                      |
+| 10   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestaltet ist.                                                                             |
+| 11   |kann             | F   | Als ein User möchte ich, dass die Website mit passenden Schriften geschrieben wurde.                                                                       |
 
 ### 1.3 Testfälle
 
@@ -45,14 +43,19 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3.1  | Auf der Website surfen                      | Auf Dropdown Liste klicken           | Die Restaurants zur Auswahl bekomme                          |
 | 4.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Zur Speisekarte gelangen                                     |
 | 5.1  | Auf der Dropdown Liste sein                 | -                                    | Vorgeschlagene Restaurants je nach vorheriger Suche          |
-| 6.1  | Auf der Website surfen                      | -                                    | (Virenfrei surfen können)                                    |
-| 7.1  | Auf der Website surfen                      | -                                    | -                                                            |
-| 8.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
-| 9.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
-| 10.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
-| 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
-| 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
-| 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
+| 6.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
+| 7.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
+| 8.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
+| 9.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
+| 10.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
+| 11.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
+
+### 1.4 Diagramme
+![Titlepage](https://github.com/robinsacher/LA1600/assets/110891559/120158e7-37df-4e6e-963d-6aadc4df561f)
+![WhatsApp Bild 2023-05-09 um 09 35 05](https://github.com/robinsacher/LA1600/assets/110891559/27afeb59-54a5-4c81-a51c-470b3f319198)
+![Menus](https://github.com/robinsacher/LA1600/assets/110891559/3d86e50a-98b0-4a50-a07b-3047fe8e7d6e)
+![Color](https://github.com/robinsacher/LA1600/assets/110891559/0fb477f0-e30b-4714-b8ae-9878665f5aba)
+![image](https://github.com/robinsacher/LA1600/assets/110891559/4c04c882-abe2-4a61-8288-8df77aa6de86)
 
 
 ## 2 Planen
