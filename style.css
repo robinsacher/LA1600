@@ -3,9 +3,11 @@
   --bgcolorlist: #232323;
   --font: #ddd;
 }
-h1{
+
+h1 {
   font-size: 20px;
 }
+
 body {
   background-color: var(--color1);
 }
@@ -32,7 +34,7 @@ body {
   color: var(--font);
 }
 
-ul{
+ul {
   padding-left: 0px;
 }
 
@@ -48,6 +50,11 @@ li {
   margin: 10px;
   display: flex;
   justify-content: center;
+  transition: transform 0.1s ease;
+}
+
+li:hover {
+  transform: scale(1.1);
 }
 
 ul li div {
@@ -56,6 +63,11 @@ ul li div {
   border-radius: 10px;
   overflow: hidden;
   flex-direction: row;
+  transition: transform 0.3s ease;
+}
+
+ul li div:hover {
+  transform: scale(1.02);
 }
 
 ul li div div {
@@ -66,30 +78,41 @@ h3 {
   font-size: small;
 }
 
-a{
+a {
   color: var(--font);
   text-decoration: none;
 }
 
 ul li div img {
-
   max-width: 450px;
   width: 450px;
   max-height: 63px;
   height: auto;
   object-fit: cover;
 }
-h3{
+
+h3 {
   font-size: 12px;
 }
 
-.backbutton{
+.backbutton {
   padding-top: 0px;
   font-size: 30px;
 }
 
+.container.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
+
 .container.main section {
   background-color: #fff;
+  max-width: 1600px;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 .container.main label {
@@ -102,6 +125,7 @@ h3{
   color: #fff;
   position: relative;
   font-size: 22px;
+  transition: all 0.1s ease;
 }
 
 .container.main label::after {
@@ -114,6 +138,10 @@ h3{
   opacity: 0.5;
   font-weight: 100;
   font-size: 16px;
+}
+
+.container.main label:hover {
+  transform: scale(1.02);
 }
 
 .container.main div {
@@ -137,6 +165,11 @@ h3{
   visibility: visible;
   opacity: 1;
   padding: 20px;
+  transition: all 0.1s ease;
+}
+
+.container.main input:checked + label:hover + div {
+  transform: scale(1.02);
 }
 
 .container.main input:checked + label + div p {
@@ -146,7 +179,3 @@ h3{
 .container.main input:checked + label::after {
   content: "\268A";
 }
-
-
-
-
