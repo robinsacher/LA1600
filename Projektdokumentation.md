@@ -54,6 +54,13 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
 | 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
 
+### 1.4 Diagramme
+![Titlepage](https://github.com/robinsacher/LA1600/assets/110891559/120158e7-37df-4e6e-963d-6aadc4df561f)
+![WhatsApp Bild 2023-05-09 um 09 35 05](https://github.com/robinsacher/LA1600/assets/110891559/27afeb59-54a5-4c81-a51c-470b3f319198)
+![Menus](https://github.com/robinsacher/LA1600/assets/110891559/3d86e50a-98b0-4a50-a07b-3047fe8e7d6e)
+![Color](https://github.com/robinsacher/LA1600/assets/110891559/0fb477f0-e30b-4714-b8ae-9878665f5aba)
+![image](https://github.com/robinsacher/LA1600/assets/110891559/4c04c882-abe2-4a61-8288-8df77aa6de86)
+
 
 ## 2 Planen
 
