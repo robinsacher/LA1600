@@ -12,35 +12,50 @@
     <header></header>
     <h1 style="text-align: center">Restaurantvergleich</h1>
     <p style="text-align: center">Hier gitb es die besten Restaurants</p>
-
-    <ul>
-      <li>
+    <div>
+      <div class="GenreSelector">
+      <div class="filters">
         <div>
-          <a href="burger.html">
-            <img src="media/Bouillon.jpg" alt="" />
-            <div>
-              <h3>Bouillon</h3>
-            </div>
-          </a>
+          <input class="filter" type="checkbox" id="doenerfilt" name="foodtype">
+          <label for="doenerfilt">Döner</label>
         </div>
-      </li>
-      <li>
         <div>
-          <a href="Döner.html">
-            <img src="media/BAL's.jpg" alt="" />
-            <h3>BAL's</h3>
-          </a>
+          <input class="filter" type="checkbox" id="pizzafilt" name="foodtype">
+         <label for="pizzafilt">Pizza</label>  
         </div>
-      </li>
-      <li>
         <div>
-          <a href="pizza.html">
-            <img src="media/Dieci.jpg" alt="" />
-            <h3>Dieci</h3>
-          </a>
+          <input class="filter" type="checkbox" id="burgerfilt" name="foodtype">
+          <label for="burgerfilt">Burger</label>  
         </div>
-      </li>
-       
-    </ul>
+      </div>
+      <ul>
+        <li class="Burger">
+          <div>
+            <a href="Mcdonalds.html">
+              <img src="media/Bouillon.jpg" alt="" />
+              <div>
+                <h3>Bouillon</h3>
+              </div>
+            </a>
+          </div>
+        </li>
+        <li class="Doener">
+          <div>
+            <a href="Döner.html">
+              <img src="media/BAL's.jpg" alt="" />
+              <h3>BAL's</h3>
+            </a>
+          </div>
+        </li>
+        <li class="Pizza">
+          <div>
+            <a href="Pizza.html">
+              <img src="media/Dieci.jpg" alt="" />
+              <h3>Dieci</h3>
+            </a>
+          </div>
+        </li>
+      </ul>
+    </div>
   </body>
 </html>

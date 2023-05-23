@@ -7,7 +7,7 @@ h1{
   font-size: 20px;
 }
 body {
-  background-color: var(--color1);
+  background-color: var(--bg);
 }
 
 iframe {
@@ -88,3 +88,32 @@ h3{
   font-size: 30px;
 }
 
+.GenreSelector{
+  text-align: center;
+  font-size: 24px;
+}
+[type="checkbox"] {
+  display: none;
+}
+.filters{
+  display: flex;
+  justify-content: space-evenly;
+  font-size: 20px;
+}
+.filters div{
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  background-color: var(--bgcolorlist);
+}
+.filters div label{
+  padding: 10px;
+
+}
+
+ul li{
+  display: none;
+}
+
+#doenerfilt:checked ~ .Doener{
+  display: block;
+}
