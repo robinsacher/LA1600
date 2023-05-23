@@ -76,14 +76,14 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3.E  | 23.05.2023 | Burlet    | Funktion des Startmenüs implementieren                     | 20 Min.       |
 | 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurant Kategorien                         | 15 Min.       |
 | 4.A  | 23.05.2023 | Sacher    | Speisekarten mit Menu verbinden                            | 25 min.       |
-| 9.A  | 23.05.2023 | Sacher    | Google Maps Karte mit HTML einfügen                        | 2 Std.        |
-| 10.A | 23.05.2023 | Marku     | Button für Favoriten mit HTML erstellen                    | 15 Min.       |
-| 10.B | 23.05.2023 | Marku     | Mit CSS dem Button für die Favoriten die Funktion zuweisen | 15 Min.       |
-| 10.C | 23.05.2023 | Marku     | Button mit CSS designen                                    | 20 Min.       |
-| 11.A | 23.05.2023 | Marku     | Feld für Rezensionen mit HTML erstellen                    | 20 Min.       |
-| 11.B | 23.05.2023 | Marku     | Rezensionen einfügen                                       | 10 Min.       |
-| 12.A | 23.05.2023 | Marku     | Farben aussuchen und einsetzten.                           | 25 Min.       |
-| 13.A | 23.05.2023 | Marku     | Schriftarten aussuchen und einsetzten.                     | 20 Min.       |
+| 7.A  | 23.05.2023 | Sacher    | Google Maps Karte mit HTML einfügen                        | 2 Std.        |
+| 8.A | 23.05.2023 | Marku     | Button für Favoriten mit HTML erstellen                    | 15 Min.       |
+| 8.B | 23.05.2023 | Marku     | Mit CSS dem Button für die Favoriten die Funktion zuweisen | 15 Min.       |
+| 8.C | 23.05.2023 | Marku     | Button mit CSS designen                                    | 20 Min.       |
+| 9.A | 23.05.2023 | Marku     | Feld für Rezensionen mit HTML erstellen                    | 20 Min.       |
+| 9.B | 23.05.2023 | Marku     | Rezensionen einfügen                                       | 10 Min.       |
+| 10.A | 23.05.2023 | Marku     | Farben aussuchen und einsetzten.                           | 25 Min.       |
+| 11.A | 23.05.2023 | Marku     | Schriftarten aussuchen und einsetzten.                     | 20 Min.       |
 
 Total: 675 Min.
 
