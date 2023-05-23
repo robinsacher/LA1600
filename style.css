@@ -3,7 +3,7 @@
   --bgcolorlist: #232323;
   --font: #ddd;
 }
-h1{
+h1 {
   font-size: 20px;
 }
 body {
@@ -32,7 +32,7 @@ body {
   color: var(--font);
 }
 
-ul{
+ul {
   padding-left: 0px;
 }
 
@@ -66,25 +66,83 @@ h3 {
   font-size: small;
 }
 
-a{
+a {
   color: var(--font);
   text-decoration: none;
 }
 
 ul li div img {
-
   max-width: 450px;
   width: 450px;
   max-height: 63px;
   height: auto;
   object-fit: cover;
 }
-h3{
+h3 {
   font-size: 12px;
 }
 
-.backbutton{
+.backbutton {
   padding-top: 0px;
   font-size: 30px;
 }
 
+.container.main section {
+  background-color: #fff;
+}
+
+.container.main label {
+  max-width: 100%;
+  border-bottom: 1px solid #416378;
+  background-color: #092331;
+  cursor: pointer;
+  display: block;
+  padding: 15px 20px;
+  margin: 0;
+  color: #fff;
+  position: relative;
+  font-size: 22px;
+}
+
+.container.main label::after {
+  content: "\271B";
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #fff;
+  opacity: 0.5;
+  font-weight: 100;
+  font-size: 16px;
+}
+
+.container.main div {
+  color: #666;
+  max-height: 0;
+  visibility: hidden;
+  overflow: hidden;
+  padding: 0 20px;
+}
+
+.container.main div p {
+  opacity: 0;
+}
+
+.container.main input {
+  display: none;
+}
+
+.container.main input:checked + label + div {
+  max-height: 100vh;
+  visibility: visible;
+  opacity: 1;
+  padding: 20px;
+}
+
+.container.main input:checked + label + div p {
+  opacity: 1;
+}
+
+.container.main input:checked + label::after {
+  content: "\268A";
+}

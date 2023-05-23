@@ -33,8 +33,8 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 9    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
 | 10   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
 | 11   | kann            | F   | Als ein User möchte ich Rezensionen für die Restaurants lesen können.                                                                                      |
-| 12   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestaltet ist.                                                                             |
-| 13   |kann             | F   | Als ein User möchte ich, dass die Website mit passenden Schriften geschrieben wurde.                                                                       |
+| 12   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestaltet ist.                                                                              |
+| 13   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Schriften geschrieben wurde.                                                                       |
 
 ### 1.3 Testfälle
 
@@ -54,7 +54,6 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
 | 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
 
-
 ## 2 Planen
 
 | AP-№ | Frist      | Zuständig | Beschreibung                                               | geplante Zeit |
@@ -71,7 +70,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3.C  | 23.05.2023 | Sacher    | Speisekarten einfügen                                      | 15 Min.       |
 | 3.D  | 23.05.2023 | Burlet    | Startmenü mit HTML einfügen                                | 20 Min.       |
 | 3.E  | 23.05.2023 | Burlet    | Funktion des Startmenüs implementieren                     | 20 Min.       |
-| 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurant Kategorien                         | 15 Min.       |
+| 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurant Kategorien                        | 15 Min.       |
 | 4.A  | 23.05.2023 | Sacher    | Speisekarten mit Menu verbinden                            | 25 min.       |
 | 9.A  | 23.05.2023 | Sacher    | Google Maps Karte mit HTML einfügen                        | 2 Std.        |
 | 10.A | 23.05.2023 | Marku     | Button für Favoriten mit HTML erstellen                    | 15 Min.       |
@@ -90,32 +89,30 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30min |
+| AP-№ | Datum      | Zuständig | geplante Zeit | tatsächliche Zeit   |
+| ---- | ---------- | --------- | ------------- | ------------------- |
+| 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30min               |
 | 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 30 min (1/2 fertig) |
-| 2.C  | 16.05.2023 | Sacher    | 1 Std.        | -      |
-| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |  -     |
-| 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      |   -    |
-| 2.F  | 16.05.2023 | Marku     | 30 Min.       |   -   |
-| 2.G  | 16.05.2023 | Marku     | 20 Min.       |   -    |
-| 3.A  | 16.05.2023 | Burlet    | 1 Std.        |   -    |
-| 3.B  | 16.05.2023 | Sacher    | 20 Min.       |   -    |
-| 3.C  | 16.05.2023 | Sacher    | 15 Min.       |   -    |
-| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 40 Min. |
-| 3.E  | 23.05.2023 | Burlet    | 20 Min.       |   -    |
-| 3.F  | 23.05.2023 | Burlet    | 15 Min.       |   -    |
-| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min. |
-| 9.A  | 23.05.2023 | Sacher    | 2 Std.        |   -    |
-| 10.A | 23.05.2023 | Marku     | 15 Min.       |   -    |
-| 10.B | 23.05.2023 | Marku     | 15 Min.       |   -    |
-| 10.C | 23.05.2023 | Marku     | 20 Min.       |   -    |
-| 11.A | 23.05.2023 | Marku     | 20 Min.       |   -   |
-| 11.B | 23.05.2023 | Marku     | 10 Min.       |   -   |
-| 12.A | 23.05.2023 | Marku     | 25 Min.       |   35 Min.  |
-| 13.A | 23.05.2023 | Marku     | 20 Min.       |   10 Min.  |
-
-
+| 2.C  | 16.05.2023 | Sacher    | 1 Std.        | -                   |
+| 2.D  | 16.05.2023 | Burlet    | 20 Min.       | -                   |
+| 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      | -                   |
+| 2.F  | 16.05.2023 | Marku     | 30 Min.       | -                   |
+| 2.G  | 16.05.2023 | Marku     | 20 Min.       | -                   |
+| 3.A  | 16.05.2023 | Burlet    | 1 Std.        | -                   |
+| 3.B  | 16.05.2023 | Sacher    | 20 Min.       | -                   |
+| 3.C  | 16.05.2023 | Sacher    | 15 Min.       | -                   |
+| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 40 Min.             |
+| 3.E  | 23.05.2023 | Burlet    | 20 Min.       | -                   |
+| 3.F  | 23.05.2023 | Burlet    | 15 Min.       | -                   |
+| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min.             |
+| 9.A  | 23.05.2023 | Sacher    | 2 Std.        | -                   |
+| 10.A | 23.05.2023 | Marku     | 15 Min.       | -                   |
+| 10.B | 23.05.2023 | Marku     | 15 Min.       | -                   |
+| 10.C | 23.05.2023 | Marku     | 20 Min.       | -                   |
+| 11.A | 23.05.2023 | Marku     | 20 Min.       | -                   |
+| 11.B | 23.05.2023 | Marku     | 10 Min.       | -                   |
+| 12.A | 23.05.2023 | Marku     | 25 Min.       | 35 Min.             |
+| 13.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min.             |
 
 ## 5 Kontrollieren
 
