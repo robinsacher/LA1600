@@ -30,7 +30,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 6    | muss            | F   | Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen. |
 | 7    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
 | 8   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
-| 9   | kann            | F   | Als ein User möchte ich das Rezensionen für die Restaurants auftauchen.                                                                                      |
+| 9   | kann            | F   | Als ein User möchte ich, dass Rezensionen für die Restaurants auftauchen.                                                                                      |
 | 10   | kann            | F   | Als ein User möchte ich, dass die Website mit passenden Farben gestaltet ist.                                                                             |
 | 11   |kann             | F   | Als ein User möchte ich, dass die Website mit passenden Schriften geschrieben wurde.                                                                       |
 
@@ -65,7 +65,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 2.A  | 23.05.2023 | Sacher    | Google Maps Karte mit CSS designen                         | 40 Min.       |
 | 2.B  | 23.05.2023 | Sacher    | Startseite mit CSS designen                                | 40 Min.       |
 | 2.C  | 23.05.2023 | Sacher    | Seite mit Speisekarten designen                            | 1 Std.        |
-| 2.D  | 23.05.2023 | Burlet    | Startmenu mit CSS designen                                 | 20 Min.       |
+| 2.D  | 23.05.2023 | Burlet    | Startmenü mit CSS designen                                 | 20 Min.       |
 | 2.E  | 23.05.2023 | Burlet    | Light Mode implementieren                                  | 1,5 Std.      |
 | 2.F  | 23.05.2023 | Marku     | Button mit CSS designen                                    | 30 Min.       |
 | 2.G  | 23.05.2023 | Marku     | Feld für Rezensionen mit CSS designen                      | 20 Min.       |
@@ -98,7 +98,7 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30min |
 | 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 1 Std. |
 | 2.C  | 16.05.2023 | Sacher    | 1 Std.        |  45 Min.   |
-| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |  25 MiN.   |
+| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |  25 Min.   |
 | 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      |   -    |
 | 2.F  | 16.05.2023 | Marku     | 30 Min.       |   -   |
 | 2.G  | 16.05.2023 | Marku     | 20 Min.       |   25 Min.    |
@@ -114,10 +114,9 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | 8.B | 23.05.2023 | Marku     | 15 Min.       |   -    |
 | 8.C | 23.05.2023 | Marku     | 20 Min.       |   20 Min.   |
 | 9.A | 23.05.2023 | Marku     | 20 Min.       |   35 Min.  |
-| 9.B | 23.05.2023 | Marku     | 10 Min.       |   10 Min. (Beispielsrezensionenn sind drin)|
+| 9.B | 23.05.2023 | Marku     | 10 Min.       |   10 Min. (Beispiels Rezensionen sind drin)|
 | 10.A | 23.05.2023 | Marku     | 25 Min.       |   35 Min.  |
 | 11.A | 23.05.2023 | Marku     | 20 Min.       |   10 Min.  |
-
 
 
 ## 5 Kontrollieren
