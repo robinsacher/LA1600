@@ -75,7 +75,7 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3.D  | 23.05.2023 | Burlet    | Startmenü mit HTML einfügen                                | 20 Min.       |
 | 3.E  | 23.05.2023 | Burlet    | Funktion des Startmenüs implementieren                     | 20 Min.       |
 | 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurant Kategorien                         | 15 Min.      |
-| 4.A  | 23.05.2023 | Sacher    | Speisekarten mit Menu verbinden                            | 25 min.       |
+| 4.A  | 23.05.2023 | Sacher    | Speisekarten mit Menu verbinden                            | 25 Min.       |
 | 7.A  | 23.05.2023 | Sacher    | Google Maps Karte mit HTML einfügen                        | 2 Std.        |
 | 8.A | 23.05.2023 | Marku     | Button für Favoriten mit HTML erstellen                     | 15 Min.       |
 | 8.B | 23.05.2023 | Marku     | Mit CSS dem Button für die Favoriten die Funktion zuweisen  | 15 Min.       |
@@ -96,20 +96,20 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30min |
-| 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 60min |
-| 2.C  | 16.05.2023 | Sacher    | 1 Std.        |  45 min   |
-| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |  25min    |
+| 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 1 Std. |
+| 2.C  | 16.05.2023 | Sacher    | 1 Std.        |  45 Min.   |
+| 2.D  | 16.05.2023 | Burlet    | 20 Min.       |  25 MiN.   |
 | 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      |   -    |
 | 2.F  | 16.05.2023 | Marku     | 30 Min.       |   -   |
-| 2.G  | 16.05.2023 | Marku     | 20 Min.       |   25 min    |
-| 3.A  | 16.05.2023 | Burlet    | 1 Std.        |   30 min (1/2 fertig) |
-| 3.B  | 16.05.2023 | Sacher    | 20 Min.       |  20 min  |
-| 3.C  | 16.05.2023 | Sacher    | 15 Min.       |   15 min   |
+| 2.G  | 16.05.2023 | Marku     | 20 Min.       |   25 Min.    |
+| 3.A  | 16.05.2023 | Burlet    | 1 Std.        |   30 Min. (1/2 fertig) |
+| 3.B  | 16.05.2023 | Sacher    | 20 Min.       |  20 Min.  |
+| 3.C  | 16.05.2023 | Sacher    | 15 Min.       |   15 Min.   |
 | 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 40 Min. |
-| 3.E  | 23.05.2023 | Burlet    | 20 Min.       |   30 min    |
+| 3.E  | 23.05.2023 | Burlet    | 20 Min.       |   30 Min.    |
 | 3.F  | 23.05.2023 | Burlet    | 15 Min.       |   -    |
 | 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min. |
-| 7.A  | 23.05.2023 | Sacher    | 2 Std.        |  45 min   |
+| 7.A  | 23.05.2023 | Sacher    | 2 Std.        |  45 Min.   |
 | 8.A | 23.05.2023 | Marku     | 15 Min.       |   -    |
 | 8.B | 23.05.2023 | Marku     | 15 Min.       |   -    |
 | 8.C | 23.05.2023 | Marku     | 20 Min.       |   20 Min.   |
