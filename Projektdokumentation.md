@@ -10,7 +10,9 @@
 | ---------- | ------- | ----------------------------------------------------------------------------------------------------------------------- |
 | 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für einen Restaurantvergleichswebsite entschieden.         |
 | 09.05.2023 | 0.0.2   | Wir haben heute die Projektdokumentation bis zur Nummer 4 ausgefüllt und haben angefangen unser Projekt zu realisieren. |
-| 16.05.2023 | 1.0.0   |                                                                                                                         |
+| 16.05.2023 | 0.0.3   | Wir haben verschiedene Restaurants in die Startseite eingefügt und mit Hyperlinks verbunden.                            |
+| 23.05.2023 | 1.0.0   | Wir haben die Filterfunktion angefangen zu implementieren und wir haben an dem Design der Website gearbeitet. Wor haben uns auch überlegt, wie wird Rezensionen einfügen möchten.|
+| 30.05.2023 | 1.0.1   | Wir haben die Filterfunktion und die Rezensionen fertig gestellt und wir haben Animationen hinzugefügt.|
 
 ## 1 Informieren
 
@@ -53,6 +55,14 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
 | 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
 | 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
+
+### 1.4 Diagramme
+![WhatsApp Bild 2023-05-09 um 09 35 04](https://github.com/robinsacher/LA1600/assets/110891559/cdf91585-21e4-49cc-a412-5dffa35d93e4)
+![WhatsApp Bild 2023-05-09 um 09 35 05](https://github.com/robinsacher/LA1600/assets/110891559/b4e52f05-9c3a-450c-a7e8-7ea12bedc33d)
+![1](https://github.com/robinsacher/LA1600/assets/110891559/431fef88-611e-4805-b613-e45f27519d26)
+![2](https://github.com/robinsacher/LA1600/assets/110891559/a2ed4479-ef50-450a-88f6-cd9609dc1101)
+![Screenshot 2023-05-30 104502](https://github.com/robinsacher/LA1600/assets/110891559/6063e5d5-08f2-4b0a-ab94-68df1281ea61)
+
 
 ## 2 Planen
 
