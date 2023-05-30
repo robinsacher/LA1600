@@ -46,8 +46,24 @@ li {
   border: var(--font);
   border-radius: 10px;
   margin: 10px;
+  margin-top: 20px;
   display: flex;
   justify-content: center;
+  transition: transform 0.1s ease;
+  animation: fade-in-animation 1s ease-in-out forwards;
+}
+
+@keyframes fade-in-animation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+li:hover {
+  transform: scale(1.05);
 }
 
 ul li div {
@@ -89,6 +105,7 @@ h3 {
 
 .container.main section {
   background-color: #fff;
+  max-width: 100%;
 }
 
 .container.main label {
