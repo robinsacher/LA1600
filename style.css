@@ -146,3 +146,55 @@ h3 {
 .container.main input:checked + label::after {
   content: "\268A";
 }
+
+#burgerfilter,
+#doenerfilter,
+#pizzafilter {
+  display: inline-block;
+  appearance: none;
+}
+
+label {
+  border: 2px solid var(--font);
+  border-radius: 5px;
+  background-color: var(--bgcolorlist);
+  font-size: large;
+  padding: 5px;
+  margin: 5px;
+}
+
+.Burger,
+.Doener,
+.Pizza {
+  display: none;
+}
+
+#burgerfilter:checked ~ .Burger {
+  display: block;
+  list-style: none;
+  border: var(--font);
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#doenerfilter:checked ~ .Doener {
+  display: block;
+  list-style: none;
+  border: var(--font);
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+#pizzafilter:checked ~ .Pizza {
+  display: block;
+  list-style: none;
+  border: var(--font);
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+}

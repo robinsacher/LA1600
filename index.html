@@ -11,10 +11,19 @@
   <body>
     <header></header>
     <h1 style="text-align: center">Restaurantvergleich</h1>
-    <p style="text-align: center">Hier gitb es die besten Restaurants</p>
+    <p style="text-align: center">Hier gibt es die besten Restaurants</p>
 
-    <ul>
-      <li>
+    <ul style="text-align: center">
+      <input id="burgerfilter" type="checkbox" name="hallo" checked />
+      <label for="burgerfilter">Burger</label>
+
+      <input id="doenerfilter" type="checkbox" name="schuu" checked />
+      <label for="doenerfilter">Döner</label>
+
+      <input id="pizzafilter" type="checkbox" name="lesgoo" checked />
+      <label for="pizzafilter">Pizza</label>
+
+      <li class="Burger">
         <div>
           <a href="burger.html">
             <img src="media/Bouillon.jpg" alt="" />
@@ -24,7 +33,7 @@
           </a>
         </div>
       </li>
-      <li>
+      <li class="Doener">
         <div>
           <a href="Döner.html">
             <img src="media/BAL's.jpg" alt="" />
@@ -32,7 +41,7 @@
           </a>
         </div>
       </li>
-      <li>
+      <li class="Pizza">
         <div>
           <a href="pizza.html">
             <img src="media/Dieci.jpg" alt="" />
