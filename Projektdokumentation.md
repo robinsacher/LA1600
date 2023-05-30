@@ -101,26 +101,26 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 
 | AP-№ | Datum      | Zuständig | geplante Zeit | tatsächliche Zeit   |
 | ---- | ---------- | --------- | ------------- | ------------------- |
-| 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30min               |
-| 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 30 min (1/2 fertig) |
-| 2.C  | 16.05.2023 | Sacher    | 1 Std.        | -                   |
-| 2.D  | 16.05.2023 | Burlet    | 20 Min.       | -                   |
+| 2.A  | 16.05.2023 | Sacher    | 40 Min.       | 30 Min              |
+| 2.B  | 16.05.2023 | Sacher    | 40 Min.       | 50 Min              |
+| 2.C  | 16.05.2023 | Sacher    | 1 Std.        | 20 Min              |
+| 2.D  | 16.05.2023 | Burlet    | 20 Min.       | 20 Min              |
 | 2.E  | 16.05.2023 | Burlet    | 1,5 Std.      | -                   |
 | 2.F  | 16.05.2023 | Marku     | 30 Min.       | -                   |
-| 2.G  | 16.05.2023 | Marku     | 20 Min.       | -                   |
-| 3.A  | 16.05.2023 | Burlet    | 1 Std.        | -                   |
-| 3.B  | 16.05.2023 | Sacher    | 20 Min.       | -                   |
-| 3.C  | 16.05.2023 | Sacher    | 15 Min.       | -                   |
-| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 40 Min.             |
-| 3.E  | 23.05.2023 | Burlet    | 20 Min.       | -                   |
-| 3.F  | 23.05.2023 | Burlet    | 15 Min.       | -                   |
-| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min.             |
-| 9.A  | 23.05.2023 | Sacher    | 2 Std.        | -                   |
+| 2.G  | 16.05.2023 | Marku     | 20 Min.       | 20 Min                   |
+| 3.A  | 16.05.2023 | Burlet    | 1 Std.        | 20 Min                   |
+| 3.B  | 16.05.2023 | Sacher    | 20 Min.       | 10 Min                   |
+| 3.C  | 16.05.2023 | Sacher    | 15 Min.       | 10 Min                   |
+| 3.D  | 16.05.2023 | Burlet    | 20 Min.       | 40 Min             |
+| 3.E  | 23.05.2023 | Burlet    | 20 Min.       | 15 Min                   |
+| 3.F  | 23.05.2023 | Burlet    | 15 Min.       | 05 Min                   |
+| 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min             |
+| 9.A  | 23.05.2023 | Sacher    | 2 Std.        | 10 Min                   |
 | 10.A | 23.05.2023 | Marku     | 15 Min.       | -                   |
 | 10.B | 23.05.2023 | Marku     | 15 Min.       | -                   |
 | 10.C | 23.05.2023 | Marku     | 20 Min.       | -                   |
-| 11.A | 23.05.2023 | Marku     | 20 Min.       | -                   |
-| 11.B | 23.05.2023 | Marku     | 10 Min.       | -                   |
+| 11.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min                   |
+| 11.B | 23.05.2023 | Marku     | 10 Min.       | 10 Min                   |
 | 12.A | 23.05.2023 | Marku     | 25 Min.       | 35 Min.             |
 | 13.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min.             |
 
