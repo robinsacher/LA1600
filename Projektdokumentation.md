@@ -117,9 +117,9 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | 3.F  | 23.05.2023 | Burlet    | 15 Min.       | 05 Min                   |
 | 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min             |
 | 9.A  | 23.05.2023 | Sacher    | 2 Std.        | 10 Min                   |
-| 10.A | 23.05.2023 | Marku     | 15 Min.       | -                   |
-| 10.B | 23.05.2023 | Marku     | 15 Min.       | -                   |
-| 10.C | 23.05.2023 | Marku     | 20 Min.       | -                   |
+| 10.A | 23.05.2023 | Marku     |-     | -                   |
+| 10.B | 23.05.2023 | Marku     | -       | -                   |
+| 10.C | 23.05.2023 | Marku     |-     | -                   |
 | 11.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min                   |
 | 11.B | 23.05.2023 | Marku     | 10 Min.       | 10 Min                   |
 | 12.A | 23.05.2023 | Marku     | 25 Min.       | 35 Min.             |
