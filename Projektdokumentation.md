@@ -11,8 +11,8 @@
 | 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für einen Restaurantvergleichswebsite entschieden.         |
 | 09.05.2023 | 0.0.2   | Wir haben heute die Projektdokumentation bis zur Nummer 4 ausgefüllt und haben angefangen unser Projekt zu realisieren. |
 | 16.05.2023 | 0.0.3   | Wir haben verschiedene Restaurants in die Startseite eingefügt und mit Hyperlinks verbunden.                            |
-| 23.05.2023 | 1.0.0   | Wir haben die Filterfunktion angefangen zu implementieren und wir haben an dem Design der Website gearbeitet. Wor haben uns auch überlegt, wie wird Rezensionen einfügen möchten.|
-| 30.05.2023 | 1.0.1   | Wir haben die Filterfunktion und die Rezensionen fertig gestellt und wir haben Animationen hinzugefügt.|
+| 23.05.2023 | 0.0.4   | Wir haben die Filterfunktion angefangen zu implementieren und wir haben an dem Design der Website gearbeitet. Wor haben uns auch überlegt, wie wird Rezensionen einfügen möchten.|
+| 30.05.2023 | 0.0.5   | Wir haben die Filterfunktion und die Rezensionen fertig gestellt und wir haben Animationen hinzugefügt.|
 
 ## 1 Informieren
 
@@ -51,10 +51,9 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 7.1  | Auf der Website surfen                      | -                                    | -                                                            |
 | 8.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
 | 9.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
-| 10.1 | Auf eine Speisekarte eines Restaurants sein | Auf Stern klicken                    | Restaurant wurde erfolgreich auf deine Merkliste gespeichert |
-| 11.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
-| 12.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
-| 13.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
+| 10.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
+| 11.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
+| 12.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
 
 ### 1.4 Diagramme
 ![WhatsApp Bild 2023-05-09 um 09 35 04](https://github.com/robinsacher/LA1600/assets/110891559/cdf91585-21e4-49cc-a412-5dffa35d93e4)
@@ -84,13 +83,10 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3.F  | 23.05.2023 | Burlet    | Erstellen von Restaurant Kategorien                        | 15 Min.       |
 | 4.A  | 23.05.2023 | Sacher    | Speisekarten mit Menu verbinden                            | 25 min.       |
 | 9.A  | 23.05.2023 | Sacher    | Google Maps Karte mit HTML einfügen                        | 2 Std.        |
-| 10.A | 23.05.2023 | Marku     | Button für Favoriten mit HTML erstellen                    | 15 Min.       |
-| 10.B | 23.05.2023 | Marku     | Mit CSS dem Button für die Favoriten die Funktion zuweisen | 15 Min.       |
-| 10.C | 23.05.2023 | Marku     | Button mit CSS designen                                    | 20 Min.       |
-| 11.A | 23.05.2023 | Marku     | Feld für Rezensionen mit HTML erstellen                    | 20 Min.       |
-| 11.B | 23.05.2023 | Marku     | Rezensionen einfügen                                       | 10 Min.       |
-| 12.A | 23.05.2023 | Marku     | Farben aussuchen und einsetzten.                           | 25 Min.       |
-| 13.A | 23.05.2023 | Marku     | Schriftarten aussuchen und einsetzten.                     | 20 Min.       |
+| 10.A | 23.05.2023 | Marku     | Feld für Rezensionen mit HTML erstellen                    | 20 Min.       |
+| 10.B | 23.05.2023 | Marku     | Rezensionen einfügen                                       | 10 Min.       |
+| 11.A | 23.05.2023 | Marku     | Farben aussuchen und einsetzten.                           | 25 Min.       |
+| 12.A | 23.05.2023 | Marku     | Schriftarten aussuchen und einsetzten.                     | 20 Min.       |
 
 Total: 675 Min.
 
@@ -117,13 +113,10 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 | 3.F  | 23.05.2023 | Burlet    | 15 Min.       | 05 Min                   |
 | 4.A  | 23.05.2023 | Sacher    | 25 min.       | 40 Min             |
 | 9.A  | 23.05.2023 | Sacher    | 2 Std.        | 10 Min                   |
-| 10.A | 23.05.2023 | Marku     | 15 Min.       | -                   |
-| 10.B | 23.05.2023 | Marku     | 15 Min.       | -                   |
-| 10.C | 23.05.2023 | Marku     | 20 Min.       | -                   |
-| 11.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min                   |
-| 11.B | 23.05.2023 | Marku     | 10 Min.       | 10 Min                   |
-| 12.A | 23.05.2023 | Marku     | 25 Min.       | 35 Min.             |
-| 13.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min.             |
+| 10.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min                   |
+| 10.B | 23.05.2023 | Marku     | 10 Min.       | 10 Min                   |
+| 11.A | 23.05.2023 | Marku     | 25 Min.       | 35 Min.             |
+| 12.A | 23.05.2023 | Marku     | 20 Min.       | 10 Min.             |
 
 ## 5 Kontrollieren
 
