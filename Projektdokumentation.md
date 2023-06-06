@@ -24,14 +24,14 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 
 | US-№ | Verbindlichkeit | Typ | Beschreibung                                                                                                                                               |
 | ---- | --------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1    | muss            | F   | Als ein User möchte ich, dass ich auf ein Link klicken kann, um auf die Website zu gelangen.                                                               |
+| 1    | kann          | F   | Als ein User möchte ich, dass ich auf ein Link klicken kann, um auf die Website zu gelangen.                                                               |
 | 2    | muss            | F   | Als ein User möchte ich, dass ich auf der Website mit coolen Animationen begrüsst werde.                                                                   |
-| 3    | muss            | F   | Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.                                                                               |
-| 4    | muss            | F   | Als ein User möchte ich die Speisekarten dieser Restaurants ansehen können.                                                                                |
-| 5    | muss            | F   | Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.      |
-| 6    | muss            | F   | Als User möchte ich eine Filterfunktion haben, damti ich einfacher durch die Restaurants stöbern kann.                                                                 |
+| 3    | kann         | F   | Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.                                                                               |
+| 4    | kann            | F   | Als ein User möchte ich die Speisekarten dieser Restaurants ansehen können.                                                                                |
+| 5    | kann           | F   | Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.      |
+| 6    | muss          | F   | Als User möchte ich eine Filterfunktion haben, damti ich einfacher durch die Restaurants stöbern kann.                                                                 |
 | 7    | muss            | F   | Als User möchte ich, dass wenn ich am Laptop die Restaurants nebeneinander angezeigz werden und wenn ich am Handy bin untereinander.                                                            |
-| 8    | muss            | F   | Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen. |
+| 8    | kann           | F   | Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen. |
 | 9    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
 | 10   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
 | 11   | kann            | F   | Als ein User möchte ich Rezensionen für die Restaurants lesen können.                                                                                      |
