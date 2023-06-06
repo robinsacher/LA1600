@@ -13,7 +13,7 @@
 | 16.05.2023 | 0.0.3   | Wir haben verschiedene Restaurants in die Startseite eingefügt und mit Hyperlinks verbunden.                            |
 | 23.05.2023 | 0.0.4   | Wir haben die Filterfunktion angefangen zu implementieren und wir haben an dem Design der Website gearbeitet. Wor haben uns auch überlegt, wie wird Rezensionen einfügen möchten.|
 | 30.05.2023 | 0.0.5   | Wir haben die Filterfunktion und die Rezensionen fertig gestellt und wir haben Animationen hinzugefügt.|
-| 06.06.2023 | 0.0.6   | Wir haben heute vor allem die Mobile-Version fertiggestellt und probiert die Desktop-Version zu formatieren. |
+| 06.06.2023 | 0.0.6   | Wir haben heute vor allem die Mobile-Version fertiggestellt, die Desktop-Version versuchten wir zu formatieren. |
 ## 1 Informieren
 
 ### 1.1 Ihr Projekt
