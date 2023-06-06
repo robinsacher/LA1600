@@ -29,8 +29,8 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | 3    | muss            | F   | Als ein User möchte ich verschiedene Restaurants in Baden zur Auswahl haben.                                                                               |
 | 4    | muss            | F   | Als ein User möchte ich die Speisekarten dieser Restaurants ansehen können.                                                                                |
 | 5    | muss            | F   | Als ein User möchte ich, dass mir die besten Menüs der Restaurants in Baden vorgeschlagen werden, damit ich mich entscheiden kann, wo ich essen will.      |
-| 6    | muss            | F   | Als ein User möchte ich auf dieser Website herumsurfen können, ohne mir Viren einzufangen.                                                                 |
-| 7    | muss            | F   | Als ein User möchte ich auf dieser Website surfen können, ohne unnötige Pop-ups zu bekommen.                                                               |
+| 6    | muss            | F   | Als User möchte ich eine Filterfunktion haben, damti ich einfacher durch die Restaurants stöbern kann.                                                                 |
+| 7    | muss            | F   | Als User möchte ich, dass wenn ich am Laptop die Restaurants nebeneinander angezeigz werden und wenn ich am Handy bin untereinander.                                                            |
 | 8    | muss            | F   | Als ein User möchte ich diese Website meiner Familie und Freunden weiterleiten können, damit sie auch nur in den Restaurants gehen, welche sie ansprechen. |
 | 9    | kann            | F   | Als ein User möchte ich, dass mir der Standort des gewünschten Restaurants angezeigt wird.                                                                 |
 | 10   | kann            | F   | Als ein User möchte ich, dass ich meine Lieblingsrestaurants auf meine Merkliste speichern kann.                                                           |
