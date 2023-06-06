@@ -11,8 +11,8 @@
 | 02.05.2023 | 0.0.1   | Wir haben zusammen verschiedene Vorschläge gesammelt und uns für einen Restaurantvergleichswebsite entschieden.         |
 | 09.05.2023 | 0.0.2   | Wir haben heute die Projektdokumentation bis zur Nummer 4 ausgefüllt und haben angefangen unser Projekt zu realisieren. |
 | 16.05.2023 | 0.0.3   | Wir haben verschiedene Restaurants in die Startseite eingefügt und mit Hyperlinks verbunden.                            |
-| 23.05.2023 | 1.0.0   | Wir haben die Filterfunktion angefangen zu implementieren und wir haben an dem Design der Website gearbeitet. Wor haben uns auch überlegt, wie wird Rezensionen einfügen möchten.|
-| 30.05.2023 | 1.0.1   | Wir haben die Filterfunktion und die Rezensionen fertig gestellt und wir haben Animationen hinzugefügt.|
+| 23.05.2023 | 0.0.4   | Wir haben die Filterfunktion angefangen zu implementieren und wir haben an dem Design der Website gearbeitet. Wor haben uns auch überlegt, wie wird Rezensionen einfügen möchten.|
+| 30.05.2023 | 0.0.5   | Wir haben die Filterfunktion und die Rezensionen fertig gestellt und wir haben Animationen hinzugefügt.|
 
 ## 1 Informieren
 
