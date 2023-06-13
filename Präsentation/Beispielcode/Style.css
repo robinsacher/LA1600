@@ -1,0 +1,54 @@
+/* Inhalt der Section unterhalb des Labels*/
+.container.main section {
+  background-color: lightblue;
+  max-width: 100%;
+  margin-bottom: 1000px;
+}
+
+/* Inhalt des Labels*/
+.container.main label {
+  max-width: 100%;
+  border-bottom: 1px solid #416378;
+  background-color: #092331;
+  cursor: pointer;
+  display: block;
+  padding: 15px 20px;
+  margin: 0;
+  color: #fff;
+  position: relative;
+  font-size: 32px;
+}
+
+/*Pseudo-Element für alle Labels in Container Main*/
+.container.main label::after {
+  content: "\271B"; /*Unicode zeichen +*/
+  position: absolute;
+  right: 20px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: yellowgreen;
+  font-size: 20px;
+}
+
+/*Inhalt des Divs welches getoggelt wird*/
+.container.main div {
+  color: rgb(0, 0, 0);
+  max-height: 0;
+  overflow: hidden; /*Verstecken des Inhalts*/
+}
+
+/*Verstecken der Checkbox*/
+.container.main input {
+  display: none;
+}
+
+/*Die max-Höhe des ausgeklappten Divs ist 100% des Sichtbaren Bereich der Website*/
+.container.main input:checked + label + div {
+  max-height: 100vh;
+  visibility: visible; /*Zeigen des Inhalts*/
+}
+
+/*Änderung von + auf -*/
+.container.main input:checked + label::after {
+  content: "\268A"; /*Unicode zeichen -*/
+}
