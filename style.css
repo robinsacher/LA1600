@@ -173,6 +173,13 @@ h3 {
 #pizzafilter {
   display: inline-block;
   appearance: none;
+  position: fixed;
+  top: 20px;
+  left: 20px;
+}
+
+.restaurants {
+  margin-top: 40px;
 }
 
 label {
@@ -190,27 +197,9 @@ label {
   display: none;
 }
 
-#burgerfilter:checked ~ .Burger {
-  display: block;
-  list-style: none;
-  border: var(--font);
-  border-radius: 10px;
-  margin: 10px;
-  display: flex;
-  justify-content: center;
-}
-
-#doenerfilter:checked ~ .Doener {
-  display: block;
-  list-style: none;
-  border: var(--font);
-  border-radius: 10px;
-  margin: 10px;
-  display: flex;
-  justify-content: center;
-}
-
-#pizzafilter:checked ~ .Pizza {
+#burgerfilter:checked ~ .restaurants .Burger,
+#doenerfilter:checked ~ .restaurants .Doener,
+#pizzafilter:checked ~ .restaurants .Pizza {
   display: block;
   list-style: none;
   border: var(--font);
