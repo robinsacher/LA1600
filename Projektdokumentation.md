@@ -44,16 +44,16 @@ Wenn man auf der Suche nach einem tollen Restaurant in Baden ist, ist man bei un
 | TC-№ | Ausgangslage                                | Eingabe                              | Erwartete Ausgabe                                            |
 | ---- | ------------------------------------------- | ------------------------------------ | ------------------------------------------------------------ |
 | 1.1  | Im Internet auf einem Browser sein          | Auf Website Link klicken             | Auf die Website gelangen                                     |
-| 2.1  | Auf der Website surfen                      | -                                    | coole Animationen erscheinen                                 |
-| 3.1  | Auf der Website surfen                      | Auf Dropdown Liste klicken           | Die Restaurants zur Auswahl bekomme                          |
+| 2.1  | Auf der Website surfen                      | Über Restaurants hovern                                    | coole Animationen erscheinen|
+| 3.1  | Auf der Website surfen                      | Auf einen Filter klicken| Die Restaurants zur Auswahl bekommen|
 | 4.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Zur Speisekarte gelangen                                     |
-| 5.1  | Auf der Dropdown Liste sein                 | -                                    | Vorgeschlagene Restaurants je nach vorheriger Suche          |
-| 6.1  | Auf der Website surfen                      | -                                    | (Virenfrei surfen können)                                    |
+| 5.1  | Auf der mainpage sein|Auf ein Restaurant klicken | Vorgeschlagene Restaurants je nach vorheriger Suche          |
+| 6.1  | Auf mainpage sein              |Auf einen Filter klicken|Gefilterte Restaurants|
 | 7.1  | Auf der Website surfen                      | -                                    | -                                                            |
 | 8.1  | Auf der Website surfen                      | Auf Weiterleiten Knopf klicken       | Website an Familie/Freunde schicken können                   |
-| 9.1  | Auf der Dropdown Liste sein                 | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
-| 10.1 | Auf einer Restaurantseite sein.             | Auf Rezensionen klicken              | Rezensionen tauchen auf.                                     |
-| 11.1 | Auf der Website surfen.                     | -                                    | Passende Farben sind auf der Website kombiniert worden.      |
+| 9.1  | Auf der Mainpage sein               | Auf ein Restaurant nach Wahl drücken | Standort des gewünschten Restaurants wird angezeigt          |
+| 10.1 | Auf einer Restaurantseite sein.             |Auf den Merklisten button klicken            |Restaurant wird auf der merkliste gespeichert.                                    |
+| 11.1 | Auf einer Restaurantseite sein.                    | | Passende Farben sind auf der Website kombiniert worden.      |
 | 12.1 | Auf der Website surfen.                     | -                                    | Passende Schriftarten auf der Website sind benutzt worden.   |
 
 ### 1.4 Diagramme
@@ -125,20 +125,21 @@ Wir haben uns entschieden, keine Dropdown-Listen zu verwenden, sondern ganz norm
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 20.06.2023|NOK|Burlet|
+|2.1|20.06.2023|OK|Burlet|
+|3.1|20.06.2023|OK|Burlet|
+|4.1|20.06.2023|OK|Burlet|
+|5.1|20.06.2023|OK|Burlet|
+|6.1|20.06.2023|OK|Burlet|
+|7.1|20.06.2023|OK|Burlet|
+|8.1|20.06.2023|NOK|Burlet|
+|9.1|20.06.2023|OK|Burlet|
+|10.1|20.06.2023|NOK|Burlet|
+|11.1|20.06.2023|OK|Burlet|
+|12.1|20.06.2023|OK|Burlet|
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
-
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+![Lernbericht](https://github.com/robinsacher/LA1600/edit/main/Lernbericht.md)
