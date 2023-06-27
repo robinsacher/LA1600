@@ -53,8 +53,10 @@ Grundsätzlich hat man im HTML nur die Labels mit den input Checkboxen und den E
 ## Verifikation
 
 1: Es zeigt, dass wir gelernt haben diese Ein- und Ausblend Funktion in eine Webseite einzufügen.
+
 2: Es zeigt, dass wir gelernt haben wie wir generell mit diesem Ein- und Ausblenden umgehen sollen / wie es generell funktioniert.
-3: Es zeigt, dass wir gelernt haben in welchen Fällen man diese Filter einbauen kann/sollte und wie das Grundkonzept funktioniert
+
+3: Es zeigt, dass wir gelernt haben in welchen Fällen man diese Filter einbauen kann/sollte und wie das Grundkonzept funktioniert.
 
 ## Reflexion zum Arbeitsprozess
 
