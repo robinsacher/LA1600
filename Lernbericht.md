@@ -29,11 +29,11 @@ Wir haben gelernt, wie man mit HTML und CSS Filter programmiert und verwendet.
 
 ## Reflexion zum Arbeitsprozess
 
-### Was gut an unserer Arbeit lief:
+**Was gut an unserer Arbeit lief:**
 - An unserer Arbeit hat besonders das Zusammenarbeiten gut funktioniert. Auch zu dritt konnten wir produktiv an unseren Aufgaben arbeiten. Die Arbeitspakete haben wir gut unter uns aufgeteilt, wodurch wir einen klaren Überblick halten konnten.
 
 
-### Was nicht gut an unserer Arbeit lief:
+**Was nicht gut an unserer Arbeit lief:**
 - Wir hatten häufig Interesse an denselben Arbeitspaketen, was dazu führte, dass wir öfter abstimmen mussten, wer welches Arbeitspaket übernehmen würde.
 
 **VBV**: 
