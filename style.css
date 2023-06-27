@@ -176,11 +176,9 @@ h3 {
   position: fixed;
   top: 20px;
   left: 20px;
+  
 }
 
-.restaurants {
-  margin-top: 40px;
-}
 
 label {
   border: 2px solid var(--font);
@@ -189,6 +187,7 @@ label {
   font-size: large;
   padding: 5px;
   margin: 5px;
+  
 }
 
 .Burger,
@@ -208,7 +207,11 @@ label {
   display: flex;
   justify-content: center;
 }
-
+#burgerfilter:not(:checked) ~ #labelburger,
+#doenerfilter:not(:checked) ~ #labeldoener,
+#pizzafilter:not(:checked) ~ #labelpizza{
+  background-color: rgb(110, 0, 0);
+}
 @media (max-width: 700px) {
   h1 {
     font-size: 20px;
