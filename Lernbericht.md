@@ -8,7 +8,7 @@
 
 ## Einleitung
 
-In diesem Projekt haben wir den Auftrag erhalten, eine professionelle Website zu einem von uns gewählten Thema zu erstellen. Wir haben uns entschieden, eine Website für Restaurants zu entwickeln, die den Benutzern bei der schnelleren Entscheidungsfindung für ein Restaurant helfen soll.
+In diesem Projekt haben wir den Auftrag erhalten, eine Website zu erstellen. Wir haben uns entschieden, eine Website für Restaurants zu entwickeln, die den Benutzern bei der schnelleren Entscheidungsfindung für ein Restaurant helfen soll.
 
 ## Was habe ich gelernt?
 
