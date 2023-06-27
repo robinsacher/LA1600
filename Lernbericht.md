@@ -36,4 +36,4 @@ Was gut an unserer Arbeit lief:
 Was nicht gut an unserer Arbeit lief:
 - Wir hatten häufig Interesse an denselben Arbeitspaketen, was dazu führte, dass wir öfter abstimmen mussten, wer welches Arbeitspaket übernehmen würde.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen _handelbaren_ Verbesserungsvorschlag.
+**VBV**: 
