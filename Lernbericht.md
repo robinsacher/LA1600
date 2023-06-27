@@ -8,11 +8,11 @@
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+In diesem Projekt haben wir den Auftrag erhalten, eine professionelle Website zu erstellen. Wir haben uns entschieden, eine Website für Restaurants zu entwickeln, die den Benutzern bei der schnelleren Entscheidungsfindung für ein Restaurant helfen soll.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt, wie man mit HTML und CSS Filter programmiert und verwendet.
 
 ## Beschreibung
 
