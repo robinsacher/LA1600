@@ -18,6 +18,11 @@ Wir haben gelernt, wie man mit HTML und CSS Filter programmiert und verwendet.
 
 ✍️ Verwenden Sie drei verschiedene Medien, um zu zeigen, was Sie gelernt haben. Zum Beispiel:
 
+
+
+https://github.com/robinsacher/LA1600/assets/110892985/1ba7b218-9ad9-4f77-bfdb-13a171f31215
+
+
 - Eine textliche Beschreibung
 - Ein deutliches, aussagekräftiges Bild oder eine kommentierte Bildschirm-Aufnahme
 - Ein gut dokumentierter Code-Fetzen
