@@ -8,11 +8,11 @@
 
 ## Einleitung
 
-✍️ Ein Satz, worum es in dem Projekt ging. Muss für einen externen Leser einfach zu verstehen sein.
+Wir haben uns entschieden, eine Website für Restaurants zu entwickeln, die den Benutzern bei der schnelleren Entscheidungsfindung für ein Restaurant helfen soll.
 
 ## Was habe ich gelernt?
 
-✍️ Beschreiben Sie in einem Satz **eine** Sache, die Sie bei diesem Projekt gelernt haben und die Sie in diesem Lern-Bericht dokumentieren.
+Wir haben gelernt, wie man mit HTML und CSS Filter programmiert und verwendet.
 
 ## Beschreibung
 
@@ -29,8 +29,11 @@
 
 ## Reflexion zum Arbeitsprozess
 
-👍 Überlegen Sie sich jeweils etwas, was gut an Ihrer Arbeit lief;
+# Was gut an unserer Arbeit lief:
+- An unserer Arbeit hat besonders das Zusammenarbeiten gut funktioniert. Auch zu dritt konnten wir produktiv an unseren Aufgaben arbeiten. Die Arbeitspakete haben wir gut unter uns aufgeteilt, wodurch wir einen klaren Überblick halten konnten.
 
-👎 und etwas, was nicht gut lief.
 
-**VBV**: ✍️ Formulieren Sie davon ausgehend einen _handelbaren_ Verbesserungsvorschlag.
+# Was nicht gut an unserer Arbeit lief:
+- Wir hatten häufig Interesse an denselben Arbeitspaketen, was dazu führte, dass wir öfter abstimmen mussten, wer welches Arbeitspaket übernehmen würde.
+
+**VBV**: 
