@@ -36,4 +36,4 @@ Wir haben gelernt, wie man mit HTML und CSS Filter programmiert und verwendet.
 **Was nicht gut an unserer Arbeit lief:**
 - Wir hatten häufig Interesse an denselben Arbeitspaketen, was dazu führte, dass wir öfter abstimmen mussten, wer welches Arbeitspaket übernehmen würde.
 
-**VBV**: 
+**VBV**: Sich zum Beginn des Projektes eine klare Struktur zu den Arbeitspaketen ausdenken, so dass alle schon am Anfang ein klares Bild von ihren Areitspaketen haben und somit keine Zeit verschwendet wird.
